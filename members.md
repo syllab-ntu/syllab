@@ -13,7 +13,7 @@ sidebar:
 
 # Faculty
 
-- **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
+- **[Thomas Peyrin](https://thomaspeyrin.github.io/web/)**
 
 
 # Postdocs
