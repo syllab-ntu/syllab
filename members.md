@@ -21,12 +21,6 @@ sidebar:
 - **[David Gerault](http://www.gerault.net/)**
 
 
-# Researchers
-
-- **Sonu Kumar Jha**
-- **Zakaria Najm**
-
-
 # PhD Students
 
 - **Anubhab Baksi**
@@ -56,6 +50,9 @@ sidebar:
 
 # Alumni
 
+
+- Sonu Kumar Jha - 08/2018 to 08/2019
+- Zakaria Najm (Temasek Labs@NTU, Singapore) - 08/2017 to 08/2019
 - Vesselin Velichkov (The University of Edinburgh, UK) - 05/2017 to 01/2019
 - Siang Meng Sim (DSO Laboratories, Singapore) - 01/2014 to 01/2018
 - Mohona Ghosh (IGDTUW, India) - 04/2016 to 04/2017
