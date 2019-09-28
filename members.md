@@ -20,6 +20,7 @@ sidebar:
 
 - **[David Gerault](http://www.gerault.net/)**
 
+# Researchers
 
 # PhD Students
 
