@@ -19,16 +19,17 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # News
 
+- \[Aug. 19\]  6 submissions from SyLLab selected for the 2nd round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/), [Pyjamask](https://pyjamask-cipher.github.io/), [Romulus](https://romulusae.github.io/romulus/), [SKINNY-AEAD/SKINNY-HASH](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny), SUNDAE-GIFT
 - \[Apr. 19\] Our paper "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*" accepted to AsiaCCS 2019
 - \[Mar. 19\]  8 submissions from SyLLab to the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography):
-  - GIFT-COFB
-  - PHOTON-BEETLE
+  - [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/)
+  - [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/)
   - [Pyjamask](https://pyjamask-cipher.github.io/) 
   - [REMUS](https://remusae.github.io/remus/)
   - [Romulus](https://romulusae.github.io/romulus/)
-  - SKINNY-AEAD/SKINNY-HASH
+  - [SKINNY-AEAD/SKINNY-HASH](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny)
   - SUNDAE-GIFT
-  - TGIF
+  - [TGIF](https://tgifae.github.io/tgif/)
 - \[Feb. 19\] **[Deoxys-II](https://sites.google.com/view/deoxyscipher) winner of the [CAESAR competition](http://competitions.cr.yp.to/caesar-submissions.html) (Portfolio "Defense in depth")**
 - \[Jan. 19\] Our paper "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*" accepted to Eurocrypt 2019 
 
