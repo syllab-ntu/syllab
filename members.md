@@ -18,8 +18,8 @@ sidebar:
 
 # Postdocs
 
-- **[David Gerault](http://www.gerault.net/)**
 - **Alexandre Adomnicai**
+- **[David Gerault](http://www.gerault.net/)**
 
 # Researchers
 
