@@ -19,12 +19,14 @@ sidebar:
 # Postdocs
 
 - **[David Gerault](http://www.gerault.net/)**
+- **Alexandre Adomnicai**
 
 # Researchers
 
 # PhD Students
 
 - **Anubhab Baksi**
+- **Adrien Benamira**
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**
 - **Quan Quan Tan**
 - **Haoyang Wang**
