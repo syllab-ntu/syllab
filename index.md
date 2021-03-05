@@ -19,7 +19,11 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # News
 
-- \[Jan. 20\] **SHA-1 is a Shambles !** First chosen-prefix collision for SHA-1 and application to PGP Web of Trust: https://sha-mbles.github.io/ ([Ars Technica article](https://arstechnica.com/information-technology/2020/01/pgp-keys-software-security-and-much-more-threatened-by-new-sha1-exploit/)) 
+- \[Feb. 21\] Our paper "*A Deeper Look at Machine Learning-Based Cryptanalysis*" accepted to EUROCRYPT 2021   
+- \[Sep. 20\] Our paper "*Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V*" accepted to CHES 2020 / TCHES 2021-1  
+- \[May. 20\] Our paper "*The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers*" accepted to CRYPTO 2020  
+- \[Mar. 20\] Our paper "*Fixslicing: A New GIFT Representation*" accepted to CHES 2020 / TCHES 2020-3   
+- \[Jan. 20\] **SHA-1 is a Shambles !** First chosen-prefix collision for SHA-1 and application to PGP Web of Trust: https://sha-mbles.github.io/ ([Ars Technica article](https://arstechnica.com/information-technology/2020/01/pgp-keys-software-security-and-much-more-threatened-by-new-sha1-exploit/)) - accepted to Usenix Security 2020 
 - \[Sep. 19\] Our paper "*Improved Heuristics for Short Linear Programs*" accepted to CHES 2020 / TCHES 2020-1 
 - \[Aug. 19\]  6 submissions from SyLLab selected for the 2nd round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/), [Pyjamask](https://pyjamask-cipher.github.io/), [Romulus](https://romulusae.github.io/romulus/), [SKINNY-AEAD/SKINNY-HASH](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny), SUNDAE-GIFT
 - \[Apr. 19\] Our paper "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*" accepted to AsiaCCS 2019
