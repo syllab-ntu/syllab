@@ -26,6 +26,8 @@ in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2021-1** 
 
 # 2020  
 
+- *J. Breier, M. Khairallah, X. Hou and Y. Liu*, "*A Countermeasure Against Statistical Ineffective Fault Analysis*"  
+in **IEEE Transactions on Circuits and Systems II: Express Briefs** - 2020  
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*, "*New Results on Romulus*"  
 in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**
 - *C. Guo, M. Khairallah and T. Peyrin*, "*AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family*"  
@@ -53,6 +55,10 @@ in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-1** 
 
 # 2019  
 
+- *M. Khairallah, S. Bhasin and K. M. Abdellatif*, "*On Comparison of Countermeasures against Statistical Ineffective Fault Attacks*"  
+in IEEE International Conference on Microelectronics - **ICM 2019**  
+- *V. B. Y. Kumar, S. Deb, R. Kumar, M. Khairallah, A. Chattopadhyay and A. Mendelson*, "*Recruiting Fault Tolerance Techniques for Microprocessor Security*"  
+in IEEE Asian Test Symposium 2019 - **ATS 2019**    
 - P. Ravi, S. S. Gupta, A. Chattopadhyay, M. Khairallah, Z. Najm, S. Bhasin, "*Security is an Architectural Design Constraint*"  
 in **The Journal of Microprocessors and Microsystems** - 2019
 - M. Khairallah, "*Weak Keys in the Rekeying Paradigm: Application to COMET and mixFeed*"  
