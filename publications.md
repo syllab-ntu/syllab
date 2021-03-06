@@ -55,6 +55,8 @@ in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-1** 
 
 - P. Ravi, S. S. Gupta, A. Chattopadhyay, M. Khairallah, Z. Najm, S. Bhasin, "*Security is an Architectural Design Constraint*"  
 in **The Journal of Microprocessors and Microsystems** - 2019
+- M. Khairallah, "*Weak Keys in the Rekeying Paradigm: Application to COMET and mixFeed*"  
+in IACR Transactions on Symmetric Cryptology **ToSC 2019-4** / Fast Software Encryption - **FSE 2020** 
 - H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*"  
 in IACR Transactions on Symmetric Cryptology **ToSC 2019-1** / Fast Software Encryption - **FSE 2019** 
 - D. Gerault, I. Boureanu, "*Distance bounding under different assumptions: opinion*"  
