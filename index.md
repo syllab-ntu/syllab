@@ -19,6 +19,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # News
 
+- \[Mar. 21\]  3 submissions from SyLLab selected for the final round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/) and [Romulus](https://romulusae.github.io/romulus/)
 - \[Feb. 21\] Our paper "*A Deeper Look at Machine Learning-Based Cryptanalysis*" accepted to EUROCRYPT 2021   
 - \[Sep. 20\] Our paper "*Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V*" accepted to CHES 2020 / TCHES 2021-1  
 - \[May 20\] Our paper "*The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers*" accepted to CRYPTO 2020  
