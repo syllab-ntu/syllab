@@ -25,7 +25,7 @@ sidebar:
 
 - **Anubhab Baksi**
 - **Adrien Benamira**
-- **Quan Quan Tan**
+- **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
 - **Trevor Yap**
 
 
