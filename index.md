@@ -19,6 +19,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # News
 
+- \[Sep. 21\] A new block cipher naturally resistant against a large class of differential fault attacks - Our article "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*" has been accepted at [ASIACRYPT 2021](https://asiacrypt.iacr.org/2021/)  
 - \[Mar. 21\]  3 submissions from SyLLab selected for the final round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/) and [Romulus](https://romulusae.github.io/romulus/)
 - \[Jan. 21\] Our article "*A Deeper Look at Machine Learning-Based Cryptanalysis*" has been accepted at [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/program.php)  
 - \[Sep. 20\] New speed records for constant-time AES and AES-like ciphers on ARM Cortex-M and RISC V - [github](https://github.com/aadomn/aes) - Our paper "*Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V*" accepted to [CHES 2021](https://ches.iacr.org/2021/program.php) / TCHES 2021-1 
