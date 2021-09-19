@@ -13,6 +13,10 @@ sidebar:
 
 # 2021  
 
+- *A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, S. Sarkar and S. M. Sim*, "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*"  
+in Advances in Cryptology - **ASIACRYPT 2021** 
+- *D. Gerault, T. Peyrin and Q. Q. Tan*, "*Exploring Differential-Based Distinguishers and Forgeries for ASCON*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2021-3** / Fast Software Encryption - **FSE 2022**  
 - *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*, "*The Deoxys AEAD Family*"     
 in **Journal of Cryptology** - 2021
 - *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*, "*On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study*"   
