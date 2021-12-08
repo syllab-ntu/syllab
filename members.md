@@ -18,13 +18,15 @@ sidebar:
 
 # Postdocs
 
+- **Kai Hu**
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**
-
+- **Sayandeep Saha**
 
 # PhD Students
 
 - **Anubhab Baksi**
 - **Adrien Benamira**
+- **Tristan Guérand**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
 - **Trevor Yap**
 
