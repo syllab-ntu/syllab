@@ -54,7 +54,7 @@ sidebar:
 # Alumni
 
 - Haoyang Wang (Shanghai Jiao Tong University, China) - 08/2016 to 12/2020  
-- Alexandre Adomnicai (CryptoNext Security) - 11/2019 to 10/2020  
+- Alexandre Adomnicai (CryptoNext Security, France) - 11/2019 to 10/2020  
 - David Gerault (University Of Surrey, UK) - 08/2018 to 09/2020
 - Sonu Kumar Jha (NTNU, Norway) - 08/2018 to 08/2019
 - Zakaria Najm (Temasek Labs@NTU, Singapore) - 08/2017 to 08/2019
