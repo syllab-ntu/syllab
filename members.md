@@ -24,7 +24,6 @@ sidebar:
 
 # PhD Students
 
-- **Anubhab Baksi**
 - **Adrien Benamira**
 - **Tristan Guérand**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
@@ -53,6 +52,7 @@ sidebar:
 
 # Alumni
 
+- Anubhab Baksi (Temasek Labs@NTU, Singapore) - 08/2015 to 08/2021
 - Haoyang Wang (Shanghai Jiao Tong University, China) - 08/2016 to 12/2020  
 - Alexandre Adomnicai (CryptoNext Security, France) - 11/2019 to 10/2020  
 - David Gerault (University Of Surrey, UK, then Technology Innovation Institute, UAE) - 08/2018 to 09/2020
