@@ -40,7 +40,7 @@ in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**
 in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**   
 - *G. Leurent and T. Peyrin*, "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*"  
 in USENIX Security Symposium - **USENIX Security 2020**  
-- *T. Peyrin and H. Wang*, "*The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers*"   
+- *T. Peyrin and H. Wang*, "*SHA-1 is a Shambles - First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust*"   
 in Advances in Cryptology - **CRYPTO 2020**  
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*, "*NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis*"   
 in International Symposium on Cyber Security Cryptology and Machine Learning - **CSCML 2020**  
