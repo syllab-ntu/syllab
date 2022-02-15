@@ -11,6 +11,13 @@ sidebar:
     nav: "research"
 ---
 
+# 2022
+
+- *M. Khairallah*, "*Security of COFB against Chosen Ciphertext Attacks*"
+in IACR Transactions on Symmetric Cryptology **ToSC 2022-1** / Fast Software Encryption - **FSE 2022** 
+
+---
+
 # 2021  
 
 - *A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, S. Sarkar and S. M. Sim*, "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*"  
