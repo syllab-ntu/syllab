@@ -25,7 +25,7 @@ sidebar:
 # PhD Students
 
 - **Adrien Benamira**
-- **Tristan Guérand**
+- **[Tristan Guérand](https://tguerand.github.io/)**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
 - **Trevor Yap**
 
