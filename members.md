@@ -27,7 +27,7 @@ sidebar:
 - **Adrien Benamira**
 - **[Tristan Guérand](https://tguerand.github.io/)**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
-- **Trevor Yap**
+- **[Trevor Yap](https://yap231995.github.io/#)** 
 
 
 
