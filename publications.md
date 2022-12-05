@@ -11,18 +11,37 @@ sidebar:
     nav: "research"
 ---
 
+# 2023
+
+- *S. Saha, P. Ravi, D. Jap and S. Bhasin*, "*Non-Profiled Side-Channel Assisted Fault Attack: A Case Study on DOMREP*"    
+in Design, Automation and Test in Europe Conference - **DATE 2023** 
+- *A. Chakraborty, S. Bhattacharya, S. Saha and D. Mukhopadhyay*, "*Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches*"     
+in IEEE International Symposium on High-Performance Computer Architecture - **HPCA 2023**
+
+---
+
 # 2022
 
+- *S. Sinha, S. Saha, M. Alam, V. Agarwal, A. Chatterjee, A. Mishra, D. Khazanchi and D. Mukhopadhyay*, "*Exploring Bitslicing Architectures for Enabling FHE-Assisted Machine Learning*"    
+in **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems** - 2022
+- *R. Sadhukhan, S. Saha and D. Mukhopadhyay*, "*AntiSIFA-CAD: A Framework to Thwart SIFA at the Layout Level*"    
+in ACM/IEEE International Conference on Computer-Aided Design - **ICCAD 2022** 
+- *M. Khairallah and S. Bhasin*, “*Hardware Implementation of Masked SKINNY SBox with Application to AEAD*”    
+in International Conference on Security, Privacy and Applied Cryptographic Engineering - **SPACE 2022**
+- *J. He, K. Hu, B. Preneel and M. Wang*, "*Stretching Cube Attacks: Improved Methods to Recover Massive Superpolies*"    
+in Advances in Cryptology - **ASIACRYPT 2022**
+- *J. Cui, K. Hu, M. Wang and P. Wei*, "*On the Field-Based Division Property: Applications to MiMC, Feistel MiMC and GMiMC*"        
+in Advances in Cryptology - **ASIACRYPT 2022**
 - *A. Benamira, T. Peyrin and B. Hooi*, "*Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas*"    
-in Workshop on Adversarial Robustness in the Real World **AROW 2022**
+in Workshop on Adversarial Robustness in the Real World - **AROW 2022**
 - *S. Saha, M. Khairallah and T. Peyrin*, "*Exploring Integrity of AEADs with Faults: Definitions and Constructions*"      
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023**     
 - *Q.Q. Tan and T. Peyrin*, "*Mind You Path: on (Key) Dependencies in Differential Characteristics*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023** 
 - *M. Khairallah*, "*Security of COFB against Chosen Ciphertext Attacks*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-1** / Fast Software Encryption - **FSE 2022** 
-- *K. Hu, T. Peyrin, M. Wang*, "*Finding All Impossible Differentials When Considering the DDT*"     
-in Selected Areas in Cryptography 2022 - **SAC 2022** 
+- *K. Hu, T. Peyrin and M. Wang*, "*Finding All Impossible Differentials When Considering the DDT*"     
+in Selected Areas in Cryptography - **SAC 2022** 
 
 ---
 
@@ -48,11 +67,11 @@ in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2021-1** 
 - *J. Breier, M. Khairallah, X. Hou and Y. Liu*, "*A Countermeasure Against Statistical Ineffective Fault Analysis*"  
 in **IEEE Transactions on Circuits and Systems II: Express Briefs** - 2020  
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*, "*New Results on Romulus*"  
-in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**
+in NIST Lightweight Cryptography Workshop - **NIST LWC 2020**
 - *C. Guo, M. Khairallah and T. Peyrin*, "*AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family*"  
-in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**
+in NIST Lightweight Cryptography Workshop - **NIST LWC 2020**
 - *A. Adomnicai and T. Peyrin*, "*Fixslicing - Application to Some NIST LWC Round 2 Candidates*"    
-in NIST Lightweight Cryptography Workshop 2020 - **NIST LWC 2020**   
+in NIST Lightweight Cryptography Workshop - **NIST LWC 2020**   
 - *G. Leurent and T. Peyrin*, "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*"  
 in USENIX Security Symposium - **USENIX Security 2020**  
 - *T. Peyrin and H. Wang*, "*SHA-1 is a Shambles - First Chosen-Prefix Collision on SHA-1 and Application to the PGP Web of Trust*"   
@@ -77,7 +96,7 @@ in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-1** 
 - *M. Khairallah, S. Bhasin and K. M. Abdellatif*, "*On Comparison of Countermeasures against Statistical Ineffective Fault Attacks*"  
 in IEEE International Conference on Microelectronics - **ICM 2019**  
 - *V. B. Y. Kumar, S. Deb, R. Kumar, M. Khairallah, A. Chattopadhyay and A. Mendelson*, "*Recruiting Fault Tolerance Techniques for Microprocessor Security*"  
-in IEEE Asian Test Symposium 2019 - **ATS 2019**    
+in IEEE Asian Test Symposium - **ATS 2019**    
 - P. Ravi, S. S. Gupta, A. Chattopadhyay, M. Khairallah, Z. Najm, S. Bhasin, "*Security is an Architectural Design Constraint*"  
 in **The Journal of Microprocessors and Microsystems** - 2019
 - M. Khairallah, "*Weak Keys in the Rekeying Paradigm: Application to COMET and mixFeed*"  
