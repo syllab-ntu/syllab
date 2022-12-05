@@ -13,8 +13,16 @@ sidebar:
 
 # 2022
 
+- *A. Benamira, T. Peyrin and B. Hooi*, "*Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas*"    
+in Workshop on Adversarial Robustness in the Real World **AROW 2022**
+- *S. Saha, M. Khairallah and T. Peyrin*, "*Exploring Integrity of AEADs with Faults: Definitions and Constructions*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023**     
+- *Q.Q. Tan and T. Peyrin*, "*Mind You Path: on (Key) Dependencies in Differential Characteristics*"   
+in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023** 
 - *M. Khairallah*, "*Security of COFB against Chosen Ciphertext Attacks*"
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-1** / Fast Software Encryption - **FSE 2022** 
+- *K. Hu, T. Peyrin, M. Wang*, "*Finding All Impossible Differentials When Considering the DDT*"   
+in Selected Areas in Cryptography 2022 - **SAC 2022** 
 
 ---
 
