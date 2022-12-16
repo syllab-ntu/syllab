@@ -13,6 +13,8 @@ sidebar:
 
 # 2023
 
+- *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*, "*Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis*"    
+in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2023-2** / Cryptographic Hardware and Embedded Systems - **CHES 2023**
 - *S. Saha, P. Ravi, D. Jap and S. Bhasin*, "*Non-Profiled Side-Channel Assisted Fault Attack: A Case Study on DOMREP*"    
 in Design, Automation and Test in Europe Conference - **DATE 2023** 
 - *A. Chakraborty, S. Bhattacharya, S. Saha and D. Mukhopadhyay*, "*Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches*"     
