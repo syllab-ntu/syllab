@@ -19,7 +19,7 @@ sidebar:
 # Postdocs
 
 - **Kai Hu**
-- **Sayandeep Saha**
+
 
 # PhD Students
 
@@ -27,7 +27,7 @@ sidebar:
 - **[Tristan Guérand](https://tguerand.github.io/)**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
 - **[Trevor Yap](https://yap231995.github.io/#)** 
-
+- **Minghui Zhao**
 
 
 # Visitors
@@ -51,6 +51,7 @@ sidebar:
 
 # Alumni
 
+- Sayandeep Saha (UC Louvain, Belgium) - 01/2022 to 01/2023
 - Mustafa Khairallah (Seagate Research, Singapore) - 08/2016 to 07/2022
 - Anubhab Baksi (Temasek Labs@NTU, Singapore) - 08/2015 to 08/2021
 - Haoyang Wang (Shanghai Jiao Tong University, China) - 08/2016 to 12/2020  
