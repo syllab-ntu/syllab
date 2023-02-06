@@ -39,7 +39,7 @@ in Workshop on Adversarial Robustness in the Real World - **AROW 2022**
 - *S. Saha, M. Khairallah and T. Peyrin*, "*Exploring Integrity of AEADs with Faults: Definitions and Constructions*"      
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023**     
 - *Q.Q. Tan and T. Peyrin*, "*Mind You Path: on (Key) Dependencies in Differential Characteristics*"    
-in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023** 
+in IACR Transactions on Symmetric Cryptology **ToSC 2022-4** / Fast Software Encryption - **FSE 2023** - <span style="color:red"> Best Paper Award </span>  
 - *M. Khairallah*, "*Security of COFB against Chosen Ciphertext Attacks*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2022-1** / Fast Software Encryption - **FSE 2022** 
 - *K. Hu, T. Peyrin and M. Wang*, "*Finding All Impossible Differentials When Considering the DDT*"     
