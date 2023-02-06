@@ -232,7 +232,7 @@ in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sc
 - I. Nikolić, Y. Sasaki, "*Refinements of the k-tree Algorithm for the Generalized Birthday Problem*"  
 in Advances in Cryptology - **ASIACRYPT 2015**
 - B. Minaud, P. Derbez, P-A. Fouque, P. Karpman, "*Key-Recovery Attacks on ASASA*"  
-in Advances in Cryptology - **ASIACRYPT 2015** - (<span style="color:red">Invited to JoC</span>)
+in Advances in Cryptology - **ASIACRYPT 2015** - <span style="color:red"> Invited to JoC </span>  
 - J. Jean, Y. Sasaki, L. Wang, "*Analysis of the CAESAR Candidate Silver*"  
 in Selected Areas in Cryptography 2015 - **SAC 2015**
 - P. Karpman, "*From Distinguishers to Key Recovery: Improved Related-Key Attacks on Even-Mansour*"  
@@ -330,7 +330,7 @@ in Selected Areas of Cryptography - **SAC 2013**
 - P.-A. Fouque, J. Jean, T. Peyrin, "*Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128*"  
 in Advances in Cryptology - **CRYPTO 2013**
 - F. Landelle, T. Peyrin, "*Cryptanalysis of Full RIPEMD-128*"  
-in Advances in Cryptology - **EUROCRYPT 2013** - (<span style="color:red">Invited to JoC</span>)
+in Advances in Cryptology - **EUROCRYPT 2013** - <span style="color:red"> Invited to JoC </span>  
 - F. Sagstetter, M. Lukasiewycz, S. Steinhorst, M. Wolf, A. Bouard, W. R. Harris, S. Jha, T. Peyrin, A. Poschmann, S. Chakraborty, "*Security Challenges in Automotive Hardware/Software Architecture Design*"  
 in Design, Automation & Test in Europe - **DATE 2013**
 - J. Jean, I. Nikolic, T. Peyrin, L. Wang, S. Wu, "*Security Analysis of PRINCE*"  
