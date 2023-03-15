@@ -11,9 +11,11 @@ sidebar:
     nav: "research"
 ---
 
+<span style="color:red"><strong>WE ARE RECRUITING: Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, contact Prof. Peyrin for more info on available positions</strong></span>  
+
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
 
-We are part of the *School of Physical and Mathematical Sciences* of **Nanyang Technological University**, Singapore. The lab is led by Prof. Thomas Peyrin and its research scope is cryptography in general, with a special focus on the analysis, design and implementation of symmetric-key primitives (hash functions, block and stream ciphers, MACs, etc) and lightweight cryptography. 
+We are part of the *School of Physical and Mathematical Sciences* of **Nanyang Technological University**, Singapore. The lab is led by Prof. Thomas Peyrin and its research scope is cryptography in general, with a special focus on the analysis, design and implementation of symmetric-key primitives (hash functions, block and stream ciphers, MACs, etc), lightweight cryptography, as well as applications of machine learning to security.
 
 ---
 
