@@ -13,10 +13,12 @@ sidebar:
 
 # 2023
 
+- *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*, "*Boosting differential-linear cryptanalysis of ChaCha7 with MILP*"  
+in IACR Transactions on Symmetric Cryptology **ToSC 2023-2** / Fast Software Encryption - **FSE 2024**  
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*, "*Fully Automated Differential-Linear Attacks against ARX Ciphers*"         
 in Topics in Cryptology - **CT-RSA 2023**
 - *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*, "*Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis*"    
-in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2023-2** / Cryptographic Hardware and Embedded Systems - **CHES 2023**
+in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2023-2** / Cryptographic Hardware and Embedded Systems - **CHES 2023**
 - *S. Saha, P. Ravi, D. Jap and S. Bhasin*, "*Non-Profiled Side-Channel Assisted Fault Attack: A Case Study on DOMREP*"    
 in Design, Automation and Test in Europe Conference - **DATE 2023** 
 - *A. Chakraborty, S. Bhattacharya, S. Saha and D. Mukhopadhyay*, "*Are Randomized Caches Truly Random? Formal Analysis of Randomized-Partitioned Caches*"     
@@ -62,7 +64,7 @@ in Topics in Cryptology - **CT-RSA 2021**
 - *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*, "*A Deeper Look at Machine Learning-Based Cryptanalysis*"   
 in Advances in Cryptology - **EUROCRYPT 2021**  
 - *A. Adomnicai and T. Peyrin*, "*Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V*"  
-in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2021-1** / Cryptographic Hardware and Embedded Systems - **CHES 2021**
+in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2021-1** / Cryptographic Hardware and Embedded Systems - **CHES 2021**
 
 ---
 
@@ -89,9 +91,9 @@ in IACR Transactions on Symmetric Cryptology **ToSC 2020-LWC** / Fast Software E
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*, "*Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms*"  
 in IACR Transactions on Symmetric Cryptology **ToSC 2020-1** / Fast Software Encryption - **FSE 2020**  
 - *A. Adomnicai, Z. Najm and T. Peyrin*, "*Fixslicing: A New GIFT Representation*"  
-in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-3** / Cryptographic Hardware and Embedded Systems - **CHES 2020**
+in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-3** / Cryptographic Hardware and Embedded Systems - **CHES 2020**
 - *Q. Q. Tan and T. Peyrin*, "*Improved Heuristics for Short Linear Programs*"   
-in Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-1** / Cryptographic Hardware and Embedded Systems - **CHES 2020** 
+in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2020-1** / Cryptographic Hardware and Embedded Systems - **CHES 2020** 
 
 ---
 
