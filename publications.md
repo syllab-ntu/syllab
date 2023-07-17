@@ -13,6 +13,8 @@ sidebar:
 
 # 2023
 
+- *A. Benamira, T. Guérand, T. Peyrin and H. Soegeng*, "*Neural Network-Based Rule Models With Truth Tables*"     
+in European Conference on Artificial Intelligence - **ECAI 2023**   
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*, "*Boosting differential-linear cryptanalysis of ChaCha7 with MILP*"  
 in IACR Transactions on Symmetric Cryptology **ToSC 2023-2** / Fast Software Encryption - **FSE 2024**  
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*, "*Fully Automated Differential-Linear Attacks against ARX Ciphers*"         
