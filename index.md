@@ -44,8 +44,7 @@ We are part of the *School of Physical and Mathematical Sciences / School of Com
 # Contact
 
 **Thomas Peyrin**  
-Division of Mathematical Sciences  
-School of Physical and Mathematical Sciences  
+School of Physical and Mathematical Sciences / School of Computer Science and Engineering   
 Nanyang Technological University  
 SPMS-MAS-05-14, 21 Nanyang Link, Singapore 637371, Singapore  
 **Phone**: +65-65132027  
