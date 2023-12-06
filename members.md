@@ -19,14 +19,12 @@ sidebar:
 # Postdocs
 
 - **Bishwajit Chakraborty**   
-- **Kai Hu**    
 
 # PhD Students
 
-- **Adrien Benamira**
 - **[Tristan Guérand](https://tguerand.github.io/)**
-- **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
-- **[Trevor Yap](https://yap231995.github.io/#)** 
+- **[Trevor Yap](https://yap231995.github.io/#)**
+- **Hongyi Zhang**
 - **Minghui Zhao**
 
 
@@ -46,12 +44,15 @@ sidebar:
 - Seyyed Arash Azimi (Sharif University of Technology, Iran) - 16/06/2014 to 14/08/2014
 - [Gaëtan Leurent](http://www.di.ens.fr/~leurent/) (INRIA, France) - 19/05/2014 to 06/06/2014
 - [Tetsu Iwata](http://www.nuee.nagoya-u.ac.jp/labs/tiwata/) (Nagoya University, Japan) - 23/09/2013 to 31/12/2013
-- Akshay Gupta (IIIT-Delhi, India) - 01/04/2013 to 30/06/2013
+- Akshay Gupta (IIT-Delhi, India) - 01/04/2013 to 30/06/2013
 - [Jérémy Jean](http://www.di.ens.fr/~jean/) (ENS, France) - 10/09/2012 to 10/10/2012
 - Yu Sasaki (NTT, Japan) - 01/07/2012 to 05/07/2012
 
 # Alumni
 
+- Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 10/2023
+- Quan Quan Tan (CSIT, Singapore) - 08/2019 to 08/2023
+- Kai Hu (Shandong University, China) - 11/2021 to 11/2023
 - Sayandeep Saha (UC Louvain, Belgium) - 01/2022 to 01/2023
 - Mustafa Khairallah (Seagate Research, Singapore) - 08/2016 to 07/2022
 - Anubhab Baksi (Temasek Labs@NTU, Singapore) - 08/2015 to 08/2021
