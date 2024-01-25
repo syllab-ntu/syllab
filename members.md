@@ -18,7 +18,14 @@ sidebar:
 
 # Postdocs
 
+- **Adrien Benamira**   
 - **Bishwajit Chakraborty**   
+
+
+# Researchers 
+
+- **Jia Yi Chan**
+- **Jinan Li**   
 
 # PhD Students
 
@@ -30,6 +37,7 @@ sidebar:
 
 # Visitors
 
+- Mridul Nandi (Indian Statitical Institute, India) - 19/02/2024 to 24/02/2024
 - Augustin Bariant (INRIA, France) - 06/02/2023 to 23/06/2022
 - Yu Sasaki (NTT, Japan) - 28/01/2019 to 22/02/2019
 - Ling Sun (Shandong University) - 06/02/2018 to 05/02/2019
