@@ -13,6 +13,8 @@ sidebar:
 
 # 2023
 
+- *B. Chakraborty, N. Datta and M. Nandi*, "*Designing Full-Rate Sponge based AEAD modes*"    
+in Advances in Cryptology - **INDOCRYPT 2023**  
 - *T. Yap, S. Picek and S. Bhasin*, "*Beyond the Last Layer: Deep Feature Loss Functions in Side-channel Analysis*"    
 in Workshop on Attacks and Solutions in Hardware Security - **ASHES 2023** 
 - *B. Chakraborty, C. Dhar and M. Nandi*, "*Exact Security Analysis of ASCON*"    
