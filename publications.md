@@ -13,6 +13,8 @@ sidebar:
 
 # 2023
 
+- *T. Yap, S. Picek and S. Bhasin*, "*Beyond the Last Layer: Deep Feature Loss Functions in Side-channel Analysis*"    
+in Workshop on Attacks and Solutions in Hardware Security - **ASHES 2023** 
 - *B. Chakraborty, C. Dhar and M. Nandi*, "*Exact Security Analysis of ASCON*"    
 in Advances in Cryptology - **ASIACRYPT 2023**  
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*, "*Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective*"    
