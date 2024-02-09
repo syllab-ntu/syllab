@@ -15,17 +15,15 @@ sidebar:
 
 - **[Thomas Peyrin](https://thomaspeyrin.github.io/web/)**
 
-
 # Postdocs
 
 - **Adrien Benamira**   
 - **Bishwajit Chakraborty**   
 
-
 # Researchers 
 
 - **Jia Yi Chan**
-- **Jinan Li**   
+- **Yihan Li**   
 
 # PhD Students
 
