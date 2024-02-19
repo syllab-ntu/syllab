@@ -38,7 +38,7 @@ sidebar:
 - Mridul Nandi (Indian Statitical Institute, India) - 19/02/2024 to 24/02/2024
 - Augustin Bariant (INRIA, France) - 06/02/2023 to 23/06/2022
 - Yu Sasaki (NTT, Japan) - 28/01/2019 to 22/02/2019
-- Ling Sun (Shandong University) - 06/02/2018 to 05/02/2019
+- Ling Sun (Shandong University, China) - 06/02/2018 to 05/02/2019
 - [Gaëtan Leurent](http://www.di.ens.fr/~leurent/) (INRIA, France) - 31/10/2018 to 08/11/2018
 - [Gaëtan Leurent](http://www.di.ens.fr/~leurent/) (INRIA, France) - 16/10/2017 to 04/11/2017
 - [Thorsten Kranz](http://www.crypto.ruhr-uni-bochum.de/staff/kranz.html.en) (Ruhr-Universität Bochum, Germany) - 18/01/2017 to 07/04/2017
