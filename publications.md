@@ -11,8 +11,19 @@ sidebar:
     nav: "research"
 ---
 
+# 2024
+
+- *H. Li, H. Zhang, G. Liu, K. Hu and W. Qiu*, "*AlgSAT --- a SAT Method for Verification of Differential Trails from an Algebraic Perspective*"   
+in Information Security and Privacy - **ACISP 2024**
+- *J. He, K. Hu, M. Wang and H. Lei*, "*Massive Superpoly Recovery with a Meet-in-the-middle Framework - Improved Cube Attacks on Trivium and Kreyvium*"  
+in Advances in Cryptology - **EUROCRYPT 2024**
+
+---
+
 # 2023
 
+- *H. Lei, J. He, K. Hu and M. Wang*, "*More Balanced Polynomials: Cube Attacks on 810- and 825-Round Trivium with Practical Complexities*"   
+in Selected Areas in Cryptography - **SAC 2023**  
 - *B. Chakraborty, N. Datta and M. Nandi*, "*Designing Full-Rate Sponge based AEAD modes*"    
 in Advances in Cryptology - **INDOCRYPT 2023**  
 - *T. Yap, S. Picek and S. Bhasin*, "*Beyond the Last Layer: Deep Feature Loss Functions in Side-channel Analysis*"    
