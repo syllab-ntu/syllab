@@ -13,7 +13,7 @@ sidebar:
 
 # 2024
 
-- *A. Benamira, T. Peyrin, T. Yap, T. Guérand, B. Hooi*, "*Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form*"
+- *A. Benamira, T. Peyrin, T. Yap, T. Guérand, B. Hooi*, "*Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form*"   
 in International Joint Conference on Artificial Intelligence - **IJCAI 2024**   
 - *H. Li, H. Zhang, G. Liu, K. Hu and W. Qiu*, "*AlgSAT --- a SAT Method for Verification of Differential Trails from an Algebraic Perspective*"   
 in Information Security and Privacy - **ACISP 2024**
