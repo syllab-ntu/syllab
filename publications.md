@@ -17,6 +17,8 @@ sidebar:
 in International Joint Conference on Artificial Intelligence - **IJCAI 2024**   
 - *H. Li, H. Zhang, G. Liu, K. Hu and W. Qiu*, "*AlgSAT --- a SAT Method for Verification of Differential Trails from an Algebraic Perspective*"   
 in Information Security and Privacy - **ACISP 2024**
+- *B. Chakraborty, C. Dhar and M. Nandi*, "*Tight Multi-user Security of Ascon and Its Large Key Extension*"   
+in Information Security and Privacy - **ACISP 2024**
 - *J. He, K. Hu, M. Wang and H. Lei*, "*Massive Superpoly Recovery with a Meet-in-the-middle Framework - Improved Cube Attacks on Trivium and Kreyvium*"  
 in Advances in Cryptology - **EUROCRYPT 2024**
 
