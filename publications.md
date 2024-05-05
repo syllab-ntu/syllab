@@ -13,7 +13,7 @@ sidebar:
 
 # 2024
 
-- *R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen*, "*The Committing Security of MACs with Applications to Generic Composition*"
+- *R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen*, "*The Committing Security of MACs with Applications to Generic Composition*"   
 in Advances in Cryptology - **CRYPTO 2024**
 - *A. Benamira, T. Peyrin, T. Yap, T. Guérand, B. Hooi*, "*Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form*"   
 in International Joint Conference on Artificial Intelligence - **IJCAI 2024**   
