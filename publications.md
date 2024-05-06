@@ -13,9 +13,16 @@ sidebar:
 
 # 2024
 
-- *R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen*, "*The Committing Security of MACs with Applications to Generic Composition*"   
+
+- *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
+in TSINGHUA SCIENCE AND TECHNOLOGY
+- *K. Hu*, "*Improved Conditional Cube Attacks on Ascon AEADs in Nonce-Respecting Settings -- with a Break-Fix Strategy*"   
+in IACR Transactions on Symmetric Cryptology **ToSC 2024-2** / Fast Software Encryption - **FSE 2025**
+- *Z. Niu, K. Hu, S. Sun, Z. Zhang and M. Wan*, "*Speeding up Preimage and Key-Recovery Attacks with Highly Biased Differential-Linear Approximations*"   
 in Advances in Cryptology - **CRYPTO 2024**
-- *A. Benamira, T. Peyrin, T. Yap, T. Guérand, B. Hooi*, "*Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form*"   
+- *R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden and Y. Shen*, "*The Committing Security of MACs with Applications to Generic Composition*"   
+in Advances in Cryptology - **CRYPTO 2024**
+- *A. Benamira, T. Peyrin, T. Yap, T. Guérand and B. Hooi*, "*Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form*"   
 in International Joint Conference on Artificial Intelligence - **IJCAI 2024**   
 - *H. Li, H. Zhang, G. Liu, K. Hu and W. Qiu*, "*AlgSAT --- a SAT Method for Verification of Differential Trails from an Algebraic Perspective*"   
 in Information Security and Privacy - **ACISP 2024**
