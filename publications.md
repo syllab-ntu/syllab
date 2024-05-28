@@ -16,7 +16,7 @@ sidebar:
 
 - *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
 in TSINGHUA SCIENCE AND TECHNOLOGY
-- *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin, T. Peyrin*, "*Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac*"   
+- *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*, "*Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2024-2** / Fast Software Encryption - **FSE 2025**
 - *K. Hu*, "*Improved Conditional Cube Attacks on Ascon AEADs in Nonce-Respecting Settings -- with a Break-Fix Strategy*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2024-2** / Fast Software Encryption - **FSE 2025**
