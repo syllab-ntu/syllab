@@ -13,7 +13,8 @@ sidebar:
 
 # 2024
 
-
+- *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*, "*A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers*"   
+in IACR Transactions on Symmetric Cryptology **CiC 2024-2**   
 - *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
 in TSINGHUA SCIENCE AND TECHNOLOGY
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*, "*Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac*"   
