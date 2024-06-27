@@ -17,9 +17,9 @@ sidebar:
 
 # Postdocs
 
-- **Adrien Benamira**   
 - **Bishwajit Chakraborty**   
-
+- **Chunning Zhou**
+  
 # Researchers 
 
 - **Jia Yi Chan**
@@ -28,8 +28,13 @@ sidebar:
 # PhD Students
 
 - **[Tristan Guérand](https://tguerand.github.io/)**
+- **Aman Sinha**  
+- **Hans Farrell Soegeng**
 - **[Trevor Yap](https://yap231995.github.io/#)**
 - **Hongyi Zhang**
+
+# Master Students
+- **Modi Sarthak Ketanbhai**
 - **Minghui Zhao**
 
 
@@ -56,7 +61,7 @@ sidebar:
 
 # Alumni
 
-- Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 10/2023
+- Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
 - Quan Quan Tan (CSIT, Singapore) - 08/2019 to 08/2023
 - Kai Hu (Shandong University, China) - 11/2021 to 11/2023
 - Sayandeep Saha (UC Louvain, Belgium) - 01/2022 to 01/2023
