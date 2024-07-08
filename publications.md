@@ -13,6 +13,8 @@ sidebar:
 
 # 2024
 
+- *T. Yap and D. Jap*, "*Creating from Noise: Trace Generations Using Diffusion Model for Side-Channel Attack*"
+in Applied Cryptography and Network Security Workshops - **ACNS 2024**    
 - *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*, "*A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers*"   
 in IACR Communications in Cryptology **CiC 2024-2**   
 - *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
@@ -211,7 +213,7 @@ in Cryptographic Hardware and Embedded Systems - **CHES 2017**
 - T. Iwata, K. Minematsu, T. Peyrin, Y. Seurin, "*ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication*"  
 in Advances in Cryptology - **CRYPTO 2017**
 - R. Ankele, S. Banik, A. Chakraborti, E. List, F. Mendel, S. M. Sim, G. Wang, "*Related-Key Impossible-Differential Attack on Reduced-Round SKINNY*"  
-in **ACNS 2017** 
+in Applied Cryptography and Network Security Workshops - **ACNS 2017** 
 - S. V. D. Kumar, S. Patranabis, J. Breier, D. Mukhopadhyay, S. Bhasin, A. Chattopadhyay, A. Baksi, "*A Practical Fault Attack on ARX-Like Ciphers with a Case Study on ChaCha20*"  
 in **FDTC 2017** 
 
