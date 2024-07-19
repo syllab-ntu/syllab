@@ -17,10 +17,11 @@ sidebar:
 
 # Postdocs
 
-- **Bishwajit Chakraborty**   
+- **Bishwajit Chakraborty**
 - **Chunning Zhou**
-  
-# Researchers 
+- **Peter Lorenz**
+
+# Researchers / Engineers
 
 - **Jia Yi Chan**
 - **Yihan Li**   
@@ -37,7 +38,6 @@ sidebar:
 
 - **Modi Sarthak Ketanbhai**
 - **Minghui Zhao**
-
 
 # Visitors
 
@@ -60,7 +60,6 @@ sidebar:
 - Akshay Gupta (IIT-Delhi, India) - 01/04/2013 to 30/06/2013
 - [Jérémy Jean](http://www.di.ens.fr/~jean/) (ENS, France) - 10/09/2012 to 10/10/2012
 - Yu Sasaki (NTT, Japan) - 01/07/2012 to 05/07/2012
-
 
 # Alumni
 
