@@ -34,12 +34,14 @@ sidebar:
 - **Hongyi Zhang**
 
 # Master Students
+
 - **Modi Sarthak Ketanbhai**
 - **Minghui Zhao**
 
 
 # Visitors
 
+- Haolin Liu (Shanghai Jiao Tong University, China) - 01/08/2024 - 31/07/2025  
 - Mridul Nandi (Indian Statitical Institute, India) - 19/02/2024 to 24/02/2024
 - Augustin Bariant (INRIA, France) - 06/02/2023 to 23/06/2022
 - Yu Sasaki (NTT, Japan) - 28/01/2019 to 22/02/2019
@@ -58,6 +60,7 @@ sidebar:
 - Akshay Gupta (IIT-Delhi, India) - 01/04/2013 to 30/06/2013
 - [Jérémy Jean](http://www.di.ens.fr/~jean/) (ENS, France) - 10/09/2012 to 10/10/2012
 - Yu Sasaki (NTT, Japan) - 01/07/2012 to 05/07/2012
+
 
 # Alumni
 
