@@ -17,7 +17,7 @@ sidebar:
 
 # Postdocs
 
-- **[Bishwajit Chakraborty](bishwajitchakrabort.github.io)**
+- **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
 - **Chunning Zhou**
 - **Peter Lorenz**
 
