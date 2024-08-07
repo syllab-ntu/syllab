@@ -17,7 +17,7 @@ sidebar:
 
 # Postdocs
 
-- **Bishwajit Chakraborty**
+- **[Bishwajit Chakraborty](bishwajitchakrabort.github.io)**
 - **Chunning Zhou**
 - **Peter Lorenz**
 
@@ -32,7 +32,7 @@ sidebar:
 - **Aman Sinha**  
 - **Hans Farrell Soegeng**
 - **[Trevor Yap](https://yap231995.github.io/#)**
-- **Hongyi Zhang**
+- **[Hongyi Zhang](https://qtarox.github.io/)**
 
 # Master Students
 
