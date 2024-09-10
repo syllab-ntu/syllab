@@ -29,6 +29,7 @@ sidebar:
 # PhD Students
 
 - **[Tristan Guérand](https://tguerand.github.io/)**
+- **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)   
 - **Aman Sinha**  
 - **Hans Farrell Soegeng**
 - **[Trevor Yap](https://yap231995.github.io/#)**
@@ -40,8 +41,7 @@ sidebar:
 - **Minghui Zhao**
 
 # Visitors
-
-- Haolin Liu (Shanghai Jiao Tong University, China) - 15/08/2024 - 31/07/2025  
+  
 - Mridul Nandi (Indian Statitical Institute, India) - 19/02/2024 to 24/02/2024
 - Augustin Bariant (INRIA, France) - 06/02/2023 to 23/06/2022
 - Yu Sasaki (NTT, Japan) - 28/01/2019 to 22/02/2019
