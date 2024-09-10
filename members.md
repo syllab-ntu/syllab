@@ -18,8 +18,8 @@ sidebar:
 # Postdocs
 
 - **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
-- **Chunning Zhou**
 - **Peter Lorenz**
+- **Chunning Zhou**
 
 # Researchers / Engineers
 
