@@ -24,7 +24,8 @@ sidebar:
 # Researchers / Engineers
 
 - **Jia Yi Chan**
-- **Yihan Li**   
+- **Yihan Li**
+- **Yixuan Zhou**
 
 # PhD Students
 
