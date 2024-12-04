@@ -13,12 +13,16 @@ sidebar:
 
 # 2024
 
+- *T. Yap, S. Bhasin and S. Picek*, "*OccPoIs: Points of Interest based on Neural Network’s Key Recovery in Side-channel Analysis through Occlusion*"   
+in Applied Cryptography and Network Security Workshops - **INDOCRYPT 2024**  
 - *T. Yap and D. Jap*, "*Creating from Noise: Trace Generations Using Diffusion Model for Side-Channel Attack*"
 in Applied Cryptography and Network Security Workshops - **ACNS 2024**    
 - *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*, "*A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers*"   
 in IACR Communications in Cryptology **CiC 2024-2**   
 - *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
 in TSINGHUA SCIENCE AND TECHNOLOGY
+- *K. Hu and T. Yap*, "*Perfect Monomial Prediction for Modular Addition*"   
+in IACR Transactions on Symmetric Cryptology **ToSC 2024-3** / Fast Software Encryption - **FSE 2025**
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*, "*Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2024-2** / Fast Software Encryption - **FSE 2025**
 - *K. Hu*, "*Improved Conditional Cube Attacks on Ascon AEADs in Nonce-Respecting Settings -- with a Break-Fix Strategy*"   
