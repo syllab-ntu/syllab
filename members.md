@@ -18,6 +18,7 @@ sidebar:
 # Postdocs
 
 - **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
+- **Hirendra Kumar Garai**
 - **Peter Lorenz**
 - **Chunning Zhou**
 
@@ -25,15 +26,19 @@ sidebar:
 
 - **Jia Yi Chan**
 - **Yihan Li**
+- **[Trevor Yap](https://yap231995.github.io/#)**
 - **Yixuan Zhou**
 
 # PhD Students
 
+- **Samuel Experton** (joint PhD with Université Paris Cité, co-supervised with Prof. Christina Boura) 
 - **[Tristan Guérand](https://tguerand.github.io/)**
-- **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)   
-- **Aman Sinha**  
+- **Sachi Gupta**    
+- **Adil Hassan**    
+- **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)    
+- **Aman Sinha**   
+- **Adrien Siproudhis**   
 - **Hans Farrell Soegeng**
-- **[Trevor Yap](https://yap231995.github.io/#)**
 - **[Hongyi Zhang](https://qtarox.github.io/)**
 
 # Master Students
