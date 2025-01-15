@@ -11,6 +11,12 @@ sidebar:
     nav: "research"
 ---
 
+# 2025
+
+- *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
+in Topics in Cryptology - **CT-RSA 2025**   
+
+
 # 2024
 
 - *T. Yap, S. Bhasin and S. Picek*, "*OccPoIs: Points of Interest based on Neural Network’s Key Recovery in Side-channel Analysis through Occlusion*"   
