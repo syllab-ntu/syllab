@@ -24,7 +24,6 @@ sidebar:
 
 # Researchers / Engineers
 
-- **Jia Yi Chan**
 - **Yihan Li**
 - **[Trevor Yap](https://yap231995.github.io/#)**
 - **Yixuan Zhou**
