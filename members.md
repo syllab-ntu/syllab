@@ -33,7 +33,7 @@ sidebar:
 - **Samuel Experton** (joint PhD with Université Paris Cité, co-supervised with Prof. Christina Boura) 
 - **[Tristan Guérand](https://tguerand.github.io/)**
 - **Sachi Gupta**    
-- **Adil Hassan**    
+- **Adil Hasan**    
 - **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)    
 - **Aman Sinha**   
 - **Adrien Siproudhis**   
