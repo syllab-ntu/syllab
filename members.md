@@ -19,7 +19,7 @@ sidebar:
 
 - **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
 - **Hirendra Kumar Garai**
-- **Liu Zhang**
+- **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Peter Lorenz**
 - **Chunning Zhou**
 
