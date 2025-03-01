@@ -13,6 +13,9 @@ sidebar:
 
 # 2025
 
+- *M. Zhao and T. Yap*, "*Avenger Ensemble: Genetic Algorithm-Driven Ensemble Selection for Deep Learning-based Side-Channel Analysis*"   
+in **CASCADE 2025**
+
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
 in Topics in Cryptology - **CT-RSA 2025**   
 
