@@ -13,6 +13,8 @@ sidebar:
 
 # 2025
 
+- T. Johansson, M. Khairallah and V. Nguyen", "*Efficient Authentication Protocols from the Restricted Syndrome Decoding Problem*"   
+in IEEE European Symposium on Security and Privacy - **EuroS&P 2025**
 - *M. Zhao and T. Yap*, "*Avenger Ensemble: Genetic Algorithm-Driven Ensemble Selection for Deep Learning-based Side-Channel Analysis*"   
 in **CASCADE 2025**
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
