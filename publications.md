@@ -15,7 +15,6 @@ sidebar:
 
 - *M. Zhao and T. Yap*, "*Avenger Ensemble: Genetic Algorithm-Driven Ensemble Selection for Deep Learning-based Side-Channel Analysis*"   
 in **CASCADE 2025**
-
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
 in Topics in Cryptology - **CT-RSA 2025**   
 
@@ -30,6 +29,8 @@ in Applied Cryptography and Network Security Workshops - **ACNS 2024**
 in IACR Communications in Cryptology **CiC 2024-2**   
 - *Z. Xu, J. Cui, K. Hu and M. Wang*, "*Integral Attack on the Full FUTURE Block Cipher*"   
 in Tsinghua Science and Technology
+- *M. Khairallah*, "*Revisiting Leakage-Resilient MACs and Succinctly-Committing AEAD: More Applications of Pseudo-Random Injections*"   
+in IACR Transactions on Symmetric Cryptology **ToSC 2025-1** / Fast Software Encryption - **FSE 2025**
 - *K. Hu and T. Yap*, "*Perfect Monomial Prediction for Modular Addition*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2024-3** / Fast Software Encryption - **FSE 2025**
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*, "*Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac*"   
