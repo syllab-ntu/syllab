@@ -13,6 +13,8 @@ sidebar:
 
 # 2025
 
+- *M. Khairallah and T.Yap*, "*Attacking Single-Cycle Ciphers on Modern FPGAs featuring Explainable Deep Learning*"   
+in workshop on Artificial Intelligence in Hardware Security - **AIHWS 2025**   
 - T. Johansson, M. Khairallah and V. Nguyen", "*Efficient Authentication Protocols from the Restricted Syndrome Decoding Problem*"   
 in IEEE European Symposium on Security and Privacy - **EuroS&P 2025**
 - *M. Zhao and T. Yap*, "*Avenger Ensemble: Genetic Algorithm-Driven Ensemble Selection for Deep Learning-based Side-Channel Analysis*"   
