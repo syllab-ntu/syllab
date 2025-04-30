@@ -26,7 +26,6 @@ sidebar:
 # Researchers / Engineers
 
 - **Yihan Li**
-- **[Trevor Yap](https://yap231995.github.io/#)**
 - **Yixuan Zhou**
 
 # PhD Students
@@ -68,6 +67,7 @@ sidebar:
 
 # Alumni
 
+- Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
 - Quan Quan Tan (CSIT, Singapore) - 08/2019 to 08/2023
 - Kai Hu (Shandong University, China) - 11/2021 to 11/2023
