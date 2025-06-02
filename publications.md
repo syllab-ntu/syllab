@@ -13,6 +13,8 @@ sidebar:
 
 # 2025
 
+- *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*, "*Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks*"   
+in Advances in Cryptology - **CRYPTO 2025** 
 - *M. Khairallah and T.Yap*, "*Attacking Single-Cycle Ciphers on Modern FPGAs featuring Explainable Deep Learning*"   
 in workshop on Artificial Intelligence in Hardware Security - **AIHWS 2025**   
 - T. Johansson, M. Khairallah and V. Nguyen", "*Efficient Authentication Protocols from the Restricted Syndrome Decoding Problem*"   
