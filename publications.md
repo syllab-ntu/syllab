@@ -13,6 +13,8 @@ sidebar:
 
 # 2025
 
+- *B. Chakraborty and A. Saha*, "*Tweakable Permutation-based Luby-Rackoff Constructions*"   
+in Advances in Cryptology - **CRYPTO 2025** 
 - *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*, "*Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks*"   
 in Advances in Cryptology - **CRYPTO 2025** 
 - *M. Khairallah and T.Yap*, "*Attacking Single-Cycle Ciphers on Modern FPGAs featuring Explainable Deep Learning*"   
