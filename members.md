@@ -21,7 +21,7 @@ sidebar:
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
-- **Peter Lorenz**
+- **[Peter Lorenz](https://lorenz-peter.github.io/)**
 - **Chunning Zhou**
 
 # Researchers / Engineers
