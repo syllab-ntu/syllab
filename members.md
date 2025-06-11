@@ -18,7 +18,7 @@ sidebar:
 # Postdocs
 
 - **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
-- **Hirendra Kumar Garai**
+- **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Peter Lorenz**
