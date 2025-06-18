@@ -20,8 +20,9 @@ sidebar:
 - **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
-- **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **[Peter Lorenz](https://lorenz-peter.github.io/)**
+- **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
+- **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Chunning Zhou**
 
 # Researchers / Engineers
