@@ -17,7 +17,6 @@ sidebar:
 
 # Postdocs
 
-- **[Bishwajit Chakraborty](https://bishwajitchakrabort.github.io)**
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
 - **[Peter Lorenz](https://lorenz-peter.github.io/)**
@@ -69,6 +68,7 @@ sidebar:
 
 # Alumni
 
+- Bishwajit Chakraborty (Singapore) - 09/2023 to 06/2025
 - Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
 - Quan Quan Tan (CSIT, Singapore) - 08/2019 to 08/2023
