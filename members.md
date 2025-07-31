@@ -47,6 +47,7 @@ sidebar:
 
 # Visitors
 
+- Lei Wang (Shanghai Jiao Tong University, China) - 01/09/2025 to 07/09/2025
 - Soumya Sahoo (IIT Madras, India) - 01/09/2025 to 30/09/2025    
 - Mridul Nandi (Indian Statistical Institute, India) - 19/02/2024 to 24/02/2024
 - Augustin Bariant (INRIA, France) - 06/02/2023 to 23/06/2022
