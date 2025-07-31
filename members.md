@@ -19,7 +19,6 @@ sidebar:
 
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
-- **[Peter Lorenz](https://lorenz-peter.github.io/)**
 - **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Chunning Zhou**
@@ -70,6 +69,7 @@ sidebar:
 
 # Alumni
 
+- Peter Lorenz - 07/2024 to 07/2025  
 - Bishwajit Chakraborty (Singapore) - 09/2023 to 06/2025
 - Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
