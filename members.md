@@ -69,7 +69,7 @@ sidebar:
 
 # Alumni
 
-- Peter Lorenz - 07/2024 to 07/2025  
+- Peter Lorenz - 08/2024 to 07/2025  
 - Bishwajit Chakraborty (Singapore) - 09/2023 to 06/2025
 - Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
