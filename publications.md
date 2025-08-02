@@ -13,7 +13,7 @@ sidebar:
 
 # 2025
 
-- *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers*"
+- *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-3** / Fast Software Encryption - **FSE 2026** 
 - *B. Chakraborty and A. Saha*, "*Tweakable Permutation-based Luby-Rackoff Constructions*"   
 in Advances in Cryptology - **CRYPTO 2025** 
