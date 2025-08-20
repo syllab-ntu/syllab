@@ -26,6 +26,8 @@ in **CASCADE 2025**
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
 in Topics in Cryptology - **CT-RSA 2025**
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2025-3** / Fast Software Encryption - **FSE 2026**
+- *R. Avanzi, A. Chakraborti, B. Chakraborty and E. List*, "*The Large Block Cipher Family Vistrutah*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-3** / Fast Software Encryption - **FSE 2026** 
 - *M. Khairallah*, "*Revisiting Leakage-Resilient MACs and Succinctly-Committing AEAD: More Applications of Pseudo-Random Injections*"   
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-1** / Fast Software Encryption - **FSE 2025**
