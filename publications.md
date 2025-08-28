@@ -13,6 +13,9 @@ sidebar:
 
 # 2025
 
+- *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
+B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*, "*Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI*"     
+in Translational Vision Science and Technology - **TVST 2025**   
 - *B. Chakraborty and A. Saha*, "*Tweakable Permutation-based Luby-Rackoff Constructions*"   
 in Advances in Cryptology - **CRYPTO 2025** 
 - *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*, "*Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks*"   
