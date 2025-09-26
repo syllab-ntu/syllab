@@ -13,7 +13,7 @@ sidebar:
 
 # 2025
 
-- H. Zhang, A. Benamira, S. Bhasin, T. Peyrin, S. Saha and T. Yap, "*Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks*"    
+- H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin, "*Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks*"    
 in Intelligent Computing and Systems at the Edge - **ICEDGE 2025**    
 - *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
 B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*, "*Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI*"     
