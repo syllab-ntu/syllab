@@ -41,7 +41,6 @@ sidebar:
 # Master Students
 
 - **Modi Sarthak Ketanbhai**
-- **Minghui Zhao**
 
 # Visitors
 
@@ -68,7 +67,7 @@ sidebar:
 
 # Alumni
 
-- Minghui Zhao () - 01/2023 to 08/2025      
+- Minghui Zhao (Wisewood Capital, Singapore) - 01/2023 to 03/2025      
 - Tristan Guérand (Qube Research & Technologies, Singapore) - 01/2022 to 08/2025    
 - Peter Lorenz - 08/2024 to 07/2025  
 - Bishwajit Chakraborty (Huawei, Singapore) - 09/2023 to 06/2025
