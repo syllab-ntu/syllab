@@ -69,8 +69,10 @@ sidebar:
 
 # Alumni
 
+- Minghui Zhao () - 01/2023 to 08/2025      
+- Tristan Guérand (Qube Research & Technologies, Singapore) - 01/2022 to 08/2025    
 - Peter Lorenz - 08/2024 to 07/2025  
-- Bishwajit Chakraborty (Singapore) - 09/2023 to 06/2025
+- Bishwajit Chakraborty (Huawei, Singapore) - 09/2023 to 06/2025
 - Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
 - Quan Quan Tan (CSIT, Singapore) - 08/2019 to 08/2023
