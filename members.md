@@ -19,7 +19,7 @@ sidebar:
 
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
-- **[Quan Quan Tan](https://quanquantan.github.io/home.html)**
+- **[Mostafizar Rahman](https://sites.google.com/view/rahmanmustaf/)**    
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Chunning Zhou**
 
@@ -67,6 +67,7 @@ sidebar:
 
 # Alumni
 
+- Quan Quan Tan (Inria, France) - 05/2025 to 10/2025   
 - Minghui Zhao (Wisewood Capital, Singapore) - 01/2023 to 03/2025      
 - Tristan Guérand (Qube Research & Technologies, Singapore) - 01/2022 to 08/2025    
 - Peter Lorenz - 08/2024 to 07/2025  
