@@ -317,7 +317,7 @@ in Information Security Conference - **ISC 2015**
 in Advances in Cryptology - **CRYPTO 2015**
 - P. Karpman, T. Peyrin, M. Stevens, "*Practical Free-Start Collision Attacks on 76-step SHA-1*"  
 in Advances in Cryptology - **CRYPTO 2015**
-- . Espitau, P-A. Fouque, P. Karpman, "*Higher-Order Differential Meet-in-The-Middle Preimage Attacks on SHA-1 and BLAKE*"  
+- T. Espitau, P-A. Fouque, P. Karpman, "*Higher-Order Differential Meet-in-The-Middle Preimage Attacks on SHA-1 and BLAKE*"  
 in Advances in Cryptology - **CRYPTO 2015**
 - J. Jean, I. Nikolić, "*Internal Differential Boomerangs: Practical Analysis of the Round-Reduced Keccak-f Permutation*"  
 in Fast Software Encryption - **FSE 2015**
