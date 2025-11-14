@@ -13,7 +13,17 @@ sidebar:
 
 # 2025
 
-- H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin, "*Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks*"    
+- *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
+in From Understanding Model Behavior to Discovering New Scientific Knowledge - **XAI4Science 2026**  (AAAI 2026 workshop)      
+- *H. Soegeng, T. Guérand and T. Peyrin*, "*Towards Globally Interpretable Few-Shot Tabular Learning: Distilling Foundation Models*"    
+in Artificial Intelligence with Biased or Scarce Data - **AIBSD 2026** (AAAI 2026 workshop)   
+
+
+# 2025
+
+- *A. Benamira, T. Guérand, T. Peyrin and S. Saha*, "*TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture*"   
+in Transactions on Machine Learning Research - **TMLR 2025**   
+- *H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin*, "*Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks*"    
 in Intelligent Computing and Systems at the Edge - **ICEDGE 2025**    
 - *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
 B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*, "*Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI*"     
