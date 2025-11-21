@@ -1,3 +1,16 @@
+---
+layout: single
+toc: false
+classes: wide
+sidebar:  
+  - title: " "   
+    image: /assets/images/ntu-logo-blue-transparent-side.png
+    image_alt: "image"
+    nav: "docs"
+  - title: " "
+    nav: "research"
+---
+
 TT-logic is a cutting-edge start-up, part of Nanyang Technological University (NTU) in Singapore (through its incubator NTUitive). The company specializes in developing interpretable, compact and verifiable neural network models that can be deployed with privacy-preserving inference. We provide transparent, understandable, and secure AI solutions to clients, leveraging TTnet, a technology developed at NTU. 
 
 
