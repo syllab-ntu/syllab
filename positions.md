@@ -13,7 +13,7 @@ sidebar:
 
 # Available Positions
 
-We have one [FHE engineer position](https://syllab-ntu.github.io/syllab/2026_FHE_engineer/) and one [ML/CV engineer position](https://syllab-ntu.github.io/syllab/2026_MLCV_engineer/) available:   We have one FHE engineer position available.    
+We have one [FHE engineer position](https://syllab-ntu.github.io/syllab/2026_FHE_engineer/) and one [ML/CV engineer position](https://syllab-ntu.github.io/syllab/2026_MLCV_engineer/) available.
 
 
 We are seeking candidates for **research fellow** (from fresh post-docs to senior research fellows) and **PhD student** positions in the areas of:
