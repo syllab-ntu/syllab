@@ -19,6 +19,7 @@ sidebar:
 
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
+- **Zhongfeng Niu**   
 - **[Mostafizar Rahman](https://sites.google.com/view/rahmanmustaf/)**    
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
 - **Chunning Zhou**
@@ -81,7 +82,7 @@ sidebar:
 - Anubhab Baksi (Temasek Labs@NTU, Singapore) - 08/2015 to 08/2021
 - Haoyang Wang (Shanghai Jiao Tong University, China) - 08/2016 to 12/2020  
 - Alexandre Adomnicai (CryptoNext Security, France) - 11/2019 to 10/2020  
-- David Gerault (University Of Surrey, UK, then Technology Innovation Institute, UAE) - 08/2018 to 09/2020
+- David Gerault (University of Surrey, UK, then Technology Innovation Institute, UAE) - 08/2018 to 09/2020
 - Sonu Kumar Jha (NTNU, Norway) - 08/2018 to 08/2019
 - Zakaria Najm (Temasek Labs@NTU, Singapore) - 08/2017 to 08/2019
 - Vesselin Velichkov (The University of Edinburgh, UK) - 05/2017 to 01/2019
