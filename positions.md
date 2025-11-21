@@ -20,6 +20,7 @@ We are seeking candidates for **research fellow** (from fresh post-docs to senio
 - symmetric key cryptography
 - lightweight cryptography
 - side-channel attacks
-- machine learning 
+- machine learning
+- explainable AI
 
 Salaries for research fellows are competitive and are determined according to the successful applicants accomplishments, experience and qualifications. Interested applicants should send their detailed CVs, cover letter and references to Thomas Peyrin (thomas.peyrin [at] ntu.edu.sg). 
