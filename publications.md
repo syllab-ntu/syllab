@@ -13,6 +13,8 @@ sidebar:
 
 # 2025
 
+- *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
 in From Understanding Model Behavior to Discovering New Scientific Knowledge - **XAI4Science 2026**  (AAAI 2026 workshop)      
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Towards Globally Interpretable Few-Shot Tabular Learning: Distilling Foundation Models*"    
