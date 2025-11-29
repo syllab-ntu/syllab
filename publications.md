@@ -11,7 +11,7 @@ sidebar:
     nav: "research"
 ---
 
-# 2025
+# 2026
 
 - *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
