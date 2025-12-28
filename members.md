@@ -27,7 +27,7 @@ sidebar:
 # Researchers / Engineers
 
 - **Yihan Li**
-- **Yixuan Zhou**
+
 
 # PhD Students
 
@@ -68,6 +68,7 @@ sidebar:
 
 # Alumni
 
+- Yixuan Zhou - 10/2024 - 10/2025    
 - Quan Quan Tan (Inria, France) - 05/2025 to 10/2025   
 - Minghui Zhao (Wisewood Capital, Singapore) - 01/2023 to 03/2025      
 - Tristan Guérand (Qube Research & Technologies, Singapore) - 01/2022 to 08/2025    
