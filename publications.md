@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*, "*Navigating the Deep: Signature Extraction on Deep Neural Networks*"    
+in Advances in Cryptology - **EUROCRYPT 2026**  
 - *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
