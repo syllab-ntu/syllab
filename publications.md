@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *K. Hu, Z. Niu and M. Wang*, "*Round-Based Approximation of (Higher-Order) Differential-Linear Correlation -- A Geometric Approach Perspective*"    
+in Advances in Cryptology - **EUROCRYPT 2026**    
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*, "*Navigating the Deep: Signature Extraction on Deep Neural Networks*"    
 in Advances in Cryptology - **EUROCRYPT 2026**    
 - *L. Zhang, Y. Yao, D. Shi, D. Chai, J. Guo and Z. Wang*, "*Neural-Inspired Advances in Integral Cryptanalysis*"    
