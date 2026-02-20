@@ -21,8 +21,6 @@ in Advances in Cryptology - **EUROCRYPT 2026**
 in Advances in Cryptology - **EUROCRYPT 2026**
 - *R. Bhaumik, B. Chakraborty and C. Dhar*, "*Breaking and Fixing MacaKey*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2026-1** / Fast Software Encryption - **FSE 2026**
-- *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
-in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
 in From Understanding Model Behavior to Discovering New Scientific Knowledge - **XAI4Science 2026**  (AAAI 2026 workshop)      
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Towards Globally Interpretable Few-Shot Tabular Learning: Distilling Foundation Models*"    
@@ -50,6 +48,8 @@ in IEEE European Symposium on Security and Privacy - **EuroS&P 2025**
 in **CASCADE 2025**
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
 in Topics in Cryptology - **CT-RSA 2025**
+- *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-3** / Fast Software Encryption - **FSE 2026**
 - *R. Avanzi, A. Chakraborti, B. Chakraborty and E. List*, "*The Large Block Cipher Family Vistrutah*"    
