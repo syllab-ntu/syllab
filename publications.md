@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *R. Cheng, H. Ma, T. Ma, H. Zhang*, "*EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment*"    
+in Conference on Computer Vision and Pattern Recognition - **CVPR 2026**
 - *K. Hu, Z. Niu and M. Wang*, "*Round-Based Approximation of (Higher-Order) Differential-Linear Correlation -- A Geometric Approach Perspective*"    
 in Advances in Cryptology - **EUROCRYPT 2026**    
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*, "*Navigating the Deep: Signature Extraction on Deep Neural Networks*"    
