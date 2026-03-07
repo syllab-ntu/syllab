@@ -20,9 +20,7 @@ in Advances in Cryptology - **EUROCRYPT 2026**
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*, "*Navigating the Deep: Signature Extraction on Deep Neural Networks*"    
 in Advances in Cryptology - **EUROCRYPT 2026**    
 - *L. Zhang, Y. Yao, D. Shi, D. Chai, J. Guo and Z. Wang*, "*Neural-Inspired Advances in Integral Cryptanalysis*"    
-in Advances in Cryptology - **EUROCRYPT 2026**
-- *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
-in IACR Transactions on Symmetric Cryptology **ToSC 2026-1** / Fast Software Encryption - **FSE 2026** - <span style="color:red"> Best Paper Award </span>  
+in Advances in Cryptology - **EUROCRYPT 2026** 
 - *R. Bhaumik, B. Chakraborty and C. Dhar*, "*Breaking and Fixing MacaKey*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2026-1** / Fast Software Encryption - **FSE 2026**
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
@@ -53,7 +51,7 @@ in **CASCADE 2025**
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*, "*The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs*"   
 in Topics in Cryptology - **CT-RSA 2025**
 - *M. M. Beltrán and M. Khairallah*, "*On the Plaintext Awareness of AEAD Schemes*"    
-in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  
+in IACR Transactions on Symmetric Cryptology **ToSC 2025-4** / Fast Software Encryption - **FSE 2026**  - <span style="color:red"> Best Paper Award </span>  
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2025-3** / Fast Software Encryption - **FSE 2026**
 - *R. Avanzi, A. Chakraborti, B. Chakraborty and E. List*, "*The Large Block Cipher Family Vistrutah*"    
