@@ -21,6 +21,8 @@ in Advances in Cryptology - **EUROCRYPT 2026**
 in Advances in Cryptology - **EUROCRYPT 2026**    
 - *L. Zhang, Y. Yao, D. Shi, D. Chai, J. Guo and Z. Wang*, "*Neural-Inspired Advances in Integral Cryptanalysis*"    
 in Advances in Cryptology - **EUROCRYPT 2026** 
+- *S. Peng, A. Khalesi, Z. Ahmadian, H. Hadipour, J. He, K. Hu, Z. Niu, S. Rasoolzadeh and M. Wang*, "*Cube and Integral Attacks on ChiLow-32*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2026-1** / Fast Software Encryption - **FSE 2026**
 - *R. Bhaumik, B. Chakraborty and C. Dhar*, "*Breaking and Fixing MacaKey*"    
 in IACR Transactions on Symmetric Cryptology **ToSC 2026-1** / Fast Software Encryption - **FSE 2026**
 - *H. Soegeng, T. Guérand and T. Peyrin*, "*Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction*"   
