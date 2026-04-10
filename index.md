@@ -22,6 +22,7 @@ We are part of the *School of Physical and Mathematical Sciences / School of Com
 # News
 
 - \[Mar. 26\] Our article "*On the Plaintext Awareness of AEAD Schemes*" has obtained the **Best Paper Award** at [FSE 2026/ ToSC](https://fse.iacr.org/2026/)
+- \[Mar. 25\] Our article "*Super-Sbox Cryptanalysis: Improved Attacks for AES-Like Permutations*" has obtained the [**Test-of-Time Award** for FSE 2010](https://fse.iacr.org/2025/testoftime.php)   
 - \[Feb. 23\] Our article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the **Best Paper Award** at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
 - \[Nov. 22\] Prof. Peyrin receives a [NRF Investigatorship](https://www.nrf.gov.sg/docs/default-source/default-document-library/nrf-website-(nrf-investigators-portfolio)_updated-nov-2022.pdf) award (Topic: "Interpretable and Automated Cryptanalysis for Tailor-Made Cryptographic Design"). Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, can contact him for available positions.
 - \[Sep. 22\] Our papers "*Stretching Cube Attacks: Improved Methods to Recover Massive Superpolies*" and "*On the Field-Based Division Property: Applications to MiMC, Feistel MiMC and GMiMC*" have been accepted at [ASIACRYPT 2022](https://asiacrypt.iacr.org/2022/) 
