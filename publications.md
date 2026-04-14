@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *C. Guo, M. Khairallah and K. Minematsu*, "*Better Usability: Leakage-Resistant AEADs from Single-length key Blockciphers*"    
+in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2026-3** / Cryptographic Hardware and Embedded Systems - **CHES 2026**
 - *R. Cheng, H. Ma, T. Ma, H. Zhang*, "*EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment*"    
 in Conference on Computer Vision and Pattern Recognition - **CVPR 2026**
 - *K. Hu, Z. Niu and M. Wang*, "*Round-Based Approximation of (Higher-Order) Differential-Linear Correlation -- A Geometric Approach Perspective*"    
