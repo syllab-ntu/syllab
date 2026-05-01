@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *H. Soegeng, S. K. Modi and T. Peyrin*, "*TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables*"    
+in International Conference on Machine Learning - **ICML 2026**    
 - *C. Guo, M. Khairallah and K. Minematsu*, "*Better Usability: Leakage-Resistant AEADs from Single-length key Blockciphers*"    
 in IACR Transactions on Cryptographic Hardware and Embedded Systems **TCHES 2026-3** / Cryptographic Hardware and Embedded Systems - **CHES 2026**
 - *R. Cheng, H. Ma, T. Ma, H. Zhang*, "*EcoAlign: An Economically Rational Framework for Efficient LVLM Alignment*"    
@@ -39,7 +41,7 @@ in Artificial Intelligence with Biased or Scarce Data - **AIBSD 2026** (AAAI 202
 in Transactions on Machine Learning Research - **TMLR 2025**   
 - *H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin*, "*Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks*"    
 in Intelligent Computing and Systems at the Edge - **ICEDGE 2025**    
-- *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
+- *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, Y. Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
 B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*, "*Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI*"     
 in Translational Vision Science and Technology - **TVST 2025**   
 - *B. Chakraborty and A. Saha*, "*Tweakable Permutation-based Luby-Rackoff Constructions*"   
