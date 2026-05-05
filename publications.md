@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *Z. Niu, T. Beyne, K. Hu and M. Wang*, "*Cryptanalysis Properties of Mealy Machines*"    
+in Advances in Cryptology - **CRYPTO 2026**  
 - *H. Soegeng, S. K. Modi and T. Peyrin*, "*TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables*"    
 in International Conference on Machine Learning - **ICML 2026**    
 - *C. Guo, M. Khairallah and K. Minematsu*, "*Better Usability: Leakage-Resistant AEADs from Single-length key Blockciphers*"    
