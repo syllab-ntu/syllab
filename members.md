@@ -26,7 +26,9 @@ sidebar:
 
 # Researchers / Engineers
 
+- **Eytan Levy**
 - **Yihan Li**
+- **Hadrien Marc**
 
 
 # PhD Students
