@@ -18,7 +18,6 @@ sidebar:
 # Postdocs
 
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
-- **Mustafa Khairallah** (Wallenberg - NTU Presidential Postdoctoral Fellow)
 - **Zhongfeng Niu**   
 - **[Mostafizar Rahman](https://sites.google.com/view/rahmanmustaf/)**    
 - **[Liu Zhang](https://liuzhang-xdu.github.io/)**
@@ -70,11 +69,12 @@ sidebar:
 
 # Alumni
 
-- Yixuan Zhou - 10/2024 - 10/2025    
+- Mustafa Khairallah (Umeå University, Sweden) - 03/2025 - 04/2026 
+- Yixuan Zhou (NTU, Singapore) - 10/2024 - 10/2025    
 - Quan Quan Tan (Inria, France) - 05/2025 to 10/2025   
 - Minghui Zhao (Wisewood Capital, Singapore) - 01/2023 to 03/2025      
 - Tristan Guérand (Qube Research & Technologies, Singapore) - 01/2022 to 08/2025    
-- Peter Lorenz - 08/2024 to 07/2025  
+- Peter Lorenz (Idiap, Switzerland) - 08/2024 to 07/2025  
 - Bishwajit Chakraborty (Huawei, Singapore) - 09/2023 to 06/2025
 - Trevor Yap (Temasek Labs@NTU, Singapore) - 03/2021 to 03/2025
 - Adrien Benamira (TT-logic.ai, Singapore) - 01/2020 to 06/2024
