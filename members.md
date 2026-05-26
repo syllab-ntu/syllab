@@ -37,7 +37,7 @@ sidebar:
 - **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)    
 - **Aman Sinha**   
 - **Adrien Siproudhis** (joint PhD with Université Paris Cité, co-supervised with Prof. Christina Boura)   
-- **Hans Farrell Soegeng**
+- **[Hans Farrell Soegeng](https://hansfarrell.vercel.app/)**
 - **[Hongyi Zhang](https://qtarox.github.io/)**
 
 # Master Students
