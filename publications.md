@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *S. K. Modi, H. Soegeng and T. Peyrin*, "*Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks*"    
+in European Conference on Computer Vision - **ECCV 2026**    
 - *Z. Niu, T. Beyne, K. Hu and M. Wang*, "*Cryptanalysis Properties of Mealy Machines*"    
 in Advances in Cryptology - **CRYPTO 2026**  
 - *H. Soegeng, S. K. Modi and T. Peyrin*, "*TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables*"    
