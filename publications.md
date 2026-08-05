@@ -14,7 +14,7 @@ sidebar:
 # 2026
 
 - *S. K. Modi, H. Soegeng and T. Peyrin*, "*Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks*"    
-in European Conference on Computer Vision - **ECCV 2026**    
+in European Conference on Computer Vision - **ECCV 2026 (spotlight)**    
 - *Z. Niu, T. Beyne, K. Hu and M. Wang*, "*Cryptanalysis Properties of Mealy Machines*"    
 in Advances in Cryptology - **CRYPTO 2026**  
 - *H. Soegeng, S. K. Modi and T. Peyrin*, "*TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables*"    
@@ -29,6 +29,12 @@ in Advances in Cryptology - **EUROCRYPT 2026**
 in Advances in Cryptology - **EUROCRYPT 2026**    
 - *L. Zhang, Y. Yao, D. Shi, D. Chai, J. Guo and Z. Wang*, "*Neural-Inspired Advances in Integral Cryptanalysis*"    
 in Advances in Cryptology - **EUROCRYPT 2026**
+- *K. Hu, T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*, "*Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling*"    
+in IACR Transactions on Symmetric Cryptology **ToSC 2026-3** / Fast Software Encryption - **FSE 2027**  
+- *H. Liu, A. Siproudhis, C. Boura and T. Peyrin*, "*Model Extraction of Convolutional Neural Networks with Max-Pooling*"  
+in IACR Transactions on Symmetric Cryptology **ToSC 2026-3** / Fast Software Encryption - **FSE 2027**   
+- *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*, "*ASCON Revisited: A New State-Recovery Attack and Committing Security in the Multi-User Setting*"  
+in IACR Transactions on Symmetric Cryptology **ToSC 2026-3** / Fast Software Encryption - **FSE 2027**   
 - *K. Hu, M. Khairallah, T. Peyrin and Q.Q. Tan*, "*uKNIT: Breaking Round-alignment for Cipher
 Design*"     
 in IACR Transactions on Symmetric Cryptology **ToSC 2026-2** / Fast Software Encryption - **FSE 2027**
