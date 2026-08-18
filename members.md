@@ -34,15 +34,12 @@ sidebar:
 
 - **Sachi Gupta**    
 - **Adil Hasan**    
-- **Haolin Liu** (joint PhD with Shanghai Jiao Tong University, co-supervised with Prof. Wang Lei)    
+- **Modi Sarthak Ketanbhai**   
 - **Aman Sinha**   
 - **Adrien Siproudhis** (joint PhD with Université Paris Cité, co-supervised with Prof. Christina Boura)   
 - **[Hans Farrell Soegeng](https://hansfarrell.vercel.app/)**
 - **[Hongyi Zhang](https://qtarox.github.io/)**
 
-# Master Students
-
-- **Modi Sarthak Ketanbhai**
 
 # Visitors
 
@@ -69,6 +66,7 @@ sidebar:
 
 # Alumni
 
+- Haolin Liu (Shanghai Jiao Tong University, China) - 08/2024 - 08/2026
 - Mustafa Khairallah (Umeå University, Sweden) - 03/2025 - 04/2026 
 - Yixuan Zhou (NTU, Singapore) - 10/2024 - 10/2025    
 - Quan Quan Tan (Inria, France) - 05/2025 to 10/2025   
