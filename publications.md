@@ -13,6 +13,8 @@ sidebar:
 
 # 2026
 
+- *J. He, K. Hu, M. Wang, Z. Niu and B. Preneel*, "*Revisiting Differnetial-Linear Cryptanalysis via a Walsh-Transform Perspective*"    
+in Advances in Cryptology - **ASIACRYPT 2026** 
 - *S. K. Modi, H. Soegeng and T. Peyrin*, "*Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks*"    
 in European Conference on Computer Vision - **ECCV 2026 (spotlight)**    
 - *Z. Niu, T. Beyne, K. Hu and M. Wang*, "*Cryptanalysis Properties of Mealy Machines*"    
