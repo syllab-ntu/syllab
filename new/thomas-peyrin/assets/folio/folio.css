@@ -74,11 +74,11 @@ footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .syllab{--paper:#f5f8f4;--ink:#183729;--muted:#476052;--accent:#226341;--line:#c9d8ca}
 .syllab .brand svg g{stroke:var(--accent)}
-.syllab .feature{background:#183e2f}
-.syllab .feature .kicker{color:#b7d7b7}
-.syllab .feature p{color:#dcebdd}
-.syllab .feature .links a:first-child{border-color:#85ac91}
-.syllab .feature .links a:first-child:hover{background:#305b45}
+#ocp.feature{background:#183e2f}
+#ocp.feature .kicker{color:#b7d7b7}
+#ocp.feature p{color:#dcebdd}
+#ocp.feature .links a:first-child{border-color:#85ac91}
+#ocp.feature .links a:first-child:hover{background:#305b45}
 .lab-hero{grid-template-columns:minmax(0,.87fr) minmax(0,1.13fr);gap:clamp(1rem,3vw,2.75rem)}
 .lab-art{display:block;min-width:0}
 .lab-art .lab-image{display:block;width:100%;max-width:none;height:auto;margin:0;mask-image:linear-gradient(to right,transparent,#000 2%,#000 98%,transparent),linear-gradient(to bottom,transparent,#000 10%,#000 90%,transparent);mask-composite:intersect}
