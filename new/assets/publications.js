@@ -3,7 +3,7 @@ const links = Array.from(yearNav.querySelectorAll('a'));
 const headings = links.map(link => document.getElementById(link.hash.slice(1)));
 const select = document.createElement('select');
 select.className = 'year-select';
-select.setAttribute('aria-label', 'Jump to publication year or section');
+select.setAttribute('aria-label', 'Jump to year or section');
 for (const link of links) {
   select.add(new Option(link.textContent, link.hash));
 }
@@ -36,4 +36,5 @@ function scheduleUpdate() {
 window.addEventListener('scroll', scheduleUpdate, {passive: true});
 window.addEventListener('resize', scheduleUpdate);
 window.addEventListener('pageshow', scheduleUpdate);
+window.addEventListener('hashchange', scheduleUpdate);
 updateYear();
