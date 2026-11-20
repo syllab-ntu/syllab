@@ -7,6 +7,7 @@
     <meta name="description" content="SyLLab at Nanyang Technological University. Cryptography, AI security and interpretable machine learning.">
     <link rel="canonical" href="https://syllab-ntu.github.io/syllab/new/">
     <link rel="stylesheet" href="./assets/folio/folio.css">
+    <link rel="stylesheet" href="assets/research.css">
   </head>
   <body class="syllab">
     <a class="skip" href="#main">Skip to content</a>
@@ -45,45 +46,52 @@
         <div class="section-heading">
           <h2>Research areas</h2>
         </div>
-        <div class="cards areas">
-          <article class="card">
-            <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
-            <h3>Symmetric design and implementation</h3>
-            <p>We design lightweight primitives and study how their structure translates into efficient, constant-time software.</p>
-            <div class="links">
-              <a href="https://giftcipher.github.io/gift/">GIFT</a>
-              <a href="https://eprint.iacr.org/2020/412">Fixslicing for GIFT</a>
-              <a href="https://eprint.iacr.org/2020/1123">Fixslicing for AES</a>
-              <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a>
-            </div>
-          </article>
-          <article class="card">
-            <img src="assets/folio/analysis.svg" width="480" height="280" alt="Several candidate paths through a layered graph.">
-            <h3>Cryptanalysis and automated methods</h3>
-            <p>We use differential methods, constraint solvers and machine learning to analyze symmetric primitives.</p>
-            <div class="links">
-              <a href="https://github.com/Open-CP/OCP">OCP</a>
-              <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
-            </div>
-          </article>
-          <article class="card">
-            <img src="assets/folio/ai-security.svg" width="480" height="280" alt="Observable inputs and outputs around a network with hidden weights.">
-            <h3>AI security</h3>
-            <p>We study neural-network weight recovery, adversarial attacks and the limits of model confidentiality.</p>
-            <div class="links">
-              <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
-              <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
-            </div>
-          </article>
-          <article class="card">
-            <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
-            <h3>Interpretable and compact AI</h3>
-            <p>We design compact neural architectures around Boolean functions and sparse rules for efficient inference and formal verification.</p>
-            <div class="links">
-              <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
-              <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
-            </div>
-          </article>
+        <div class="cards research-groups">
+          <section aria-labelledby="research-cryptography">
+            <h3 id="research-cryptography">Cryptography</h3>
+            <article class="card">
+              <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
+              <h4>Primitives design</h4>
+              <p>Our designs include the <a href="https://giftcipher.github.io/gift/">GIFT</a> and <a href="https://sites.google.com/site/ledblockcipher/">LED</a> block ciphers.</p>
+              <p><a href="https://www.iso.org/standard/80505.html">ISO/IEC 18033-7</a> specifies variants of the <a href="https://eprint.iacr.org/2016/660">SKINNY</a> and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-TBC</a> tweakable block ciphers. The <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a> hash family is specified in <a href="https://www.iso.org/standard/67173.html">ISO/IEC 29192-5</a>.</p>
+              <p><a href="https://sites.google.com/view/deoxyscipher">Deoxys-II</a> was the <a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR final portfolio’s first choice for defense in depth</a>.</p>
+              <div class="links">
+                <a href="https://eprint.iacr.org/2020/412">Fixslicing for GIFT</a>
+                <a href="https://eprint.iacr.org/2020/1123">Fixslicing for AES</a>
+                <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="assets/folio/analysis.svg" width="480" height="280" alt="Several candidate paths through a layered graph.">
+              <h4>Cryptanalysis and automated methods</h4>
+              <p>We use differential methods, constraint solvers and machine learning to analyze symmetric primitives.</p>
+              <div class="links">
+                <a href="https://github.com/Open-CP/OCP">OCP</a>
+                <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
+              </div>
+            </article>
+          </section>
+          <section aria-labelledby="research-ai">
+            <h3 id="research-ai">AI</h3>
+            <article class="card">
+              <img src="assets/folio/ai-security.svg" width="480" height="280" alt="Observable inputs and outputs around a network with hidden weights.">
+              <h4>AI security</h4>
+              <p>We study neural-network weight recovery, adversarial attacks and the limits of model confidentiality.</p>
+              <div class="links">
+                <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
+                <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
+              <h4>Interpretable and compact AI</h4>
+              <p>We design compact neural architectures around Boolean functions and sparse rules for efficient inference and formal verification.</p>
+              <div class="links">
+                <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
+                <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
+              </div>
+            </article>
+          </section>
         </div>
       </section>
       <section class="section">
