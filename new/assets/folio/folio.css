@@ -73,7 +73,26 @@ footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-
 @media(max-width:640px){.wrap{width:calc(100% - 2.25rem)}.top{display:grid;gap:.7rem;padding-block:.9rem}nav{gap:.2rem .95rem}nav a{font-size:.87rem}.hero,.lab-hero,.feature,.repos{grid-template-columns:1fr}.hero{position:relative;display:block}.hero h1{padding-right:5.1rem}.hero .affiliation{padding-right:5rem;max-width:30ch}.hero .intro{margin-top:1.3rem}.portrait{position:absolute;right:0;top:1.7rem}.portrait img.headshot{width:66px;height:66px}.portrait .university{display:none}.venture{gap:.65rem}.lab-hero{position:relative}.lab-hero h1{max-width:15ch}.lab-image{width:130px;justify-self:end;margin-top:-.6rem}.lab-hero:has(.lab-image){grid-template-columns:1fr}.lab-hero .lab-image{display:none}.feature{gap:0}.feature-copy{padding:1.5rem 1.45rem .35rem}.feature>img{max-height:175px}.section-heading{margin-bottom:1.05rem}.card{grid-template-columns:minmax(85px,27%) minmax(0,1fr);gap:.36rem .8rem}.card img{border-radius:11px}.news li,.feed li{grid-template-columns:4.8rem 1fr;gap:.65rem}.calendar{border-radius:12px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 .syllab{--paper:#f5f8f4;--ink:#183729;--muted:#476052;--accent:#226341;--line:#c9d8ca}
-.syllab .brand svg g{stroke:var(--accent)}
+/* Keep the gradient in reading order when the lab name wraps. */
+.syllab {
+  --brand-green: #246441;
+  --brand-teal: #1d6866;
+  --brand-blue: #176583;
+}
+.lab-wordmark { --gradient-end: var(--brand-blue); }
+.lab-title-crypto { --gradient-end: var(--brand-teal); }
+.lab-title-bridge { color: var(--brand-teal); }
+.lab-title-ml { --gradient-start: var(--brand-teal); --gradient-end: var(--brand-blue); }
+.lab-wordmark, .lab-title-crypto, .lab-title-ml { color: var(--gradient-end); }
+@supports (background-clip: text) {
+  @media screen and (forced-colors: none) {
+    .lab-wordmark, .lab-title-crypto, .lab-title-ml {
+      background-image: linear-gradient(90deg, var(--gradient-start, var(--brand-green)), var(--gradient-end));
+      background-clip: text;
+      color: transparent;
+    }
+  }
+}
 .syllab .feature{background:#183e2f}
 .syllab .feature .kicker{color:#b7d7b7}
 .syllab .feature p{color:#dcebdd}
