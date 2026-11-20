@@ -1,0 +1,45 @@
+.people-page { margin-block: 3rem 5rem; }
+.people-page section { margin-top: 2.5rem; }
+.people-page section > h2 {
+  padding-bottom: .7rem;
+  border-bottom: 1px solid var(--line);
+  font-size: clamp(1.4rem, 2.5vw, 1.95rem);
+}
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 12rem), 1fr));
+  gap: 2rem 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0 0;
+}
+.member-grid li { text-align: center; }
+.member-portrait {
+  display: grid;
+  place-items: center;
+  margin-inline: auto;
+  width: 7rem;
+  height: 7rem;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center 38%;
+  background: #e2ece3;
+}
+.member-portrait.initials {
+  color: #456752;
+  font-size: 1.85rem;
+  letter-spacing: -.04em;
+  font-weight: 550;
+}
+.member-grid h3 { font-size: 1.05rem; margin: .65rem 0 .25rem; line-height: 1.35; letter-spacing: -.025em; }
+.member-links { display: flex; flex-wrap: wrap; justify-content: center; }
+.member-links a { width: 1.8rem; height: 1.8rem; display: grid; place-items: center; color: var(--muted); border-radius: 50%; }
+.member-links a:hover, .member-links a:focus-visible { background: #deeadf; color: var(--accent); }
+.member-links svg { width: 16px; height: 16px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.member-note { color: var(--muted); font-size: .84rem; line-height: 1.45; }
+.icon-definitions { position: absolute; width: 0; height: 0; overflow: hidden; }
+.past-members { border-top: 1px solid var(--line); padding-top: 1.25rem; }
+@media (max-width: 640px) {
+  .member-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem .6rem; }
+  .member-portrait { width: 5.75rem; height: 5.75rem; }
+}
