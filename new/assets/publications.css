@@ -50,25 +50,9 @@ html:has(.publication-page) { scroll-behavior: auto; }
 .venue-ml { --venue-color: #176583; }
 .venue-both { --venue-color: #285c65; }
 .venue-other { --venue-color: #505d60; }
-.venue-line, .venue-key li { color: var(--venue-color); }
+.venue-line, .venue-key li, .publication-list .paper-title,
+.publication-list li::marker { color: var(--venue-color); }
 .venue-line a { color: inherit; }
-.venue-line::before, :where(.venue-key) li::before {
-  content: "";
-  display: inline-block;
-  width: .58em;
-  height: .58em;
-  margin-inline-end: .45em;
-  vertical-align: .08em;
-  background: currentColor;
-  border-radius: 50%;
-}
-.venue-ml::before { border-radius: 1px; }
-.venue-both::before {
-  border-radius: 1px;
-  transform: rotate(45deg);
-  background: linear-gradient(90deg, #246441 50%, #176583 50%);
-}
-.venue-other::before { background: transparent; box-shadow: inset 0 0 0 1.5px currentColor; }
 .venue-sr {
   position: absolute;
   width: 1px;

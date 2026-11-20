@@ -75,14 +75,14 @@ footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-
 .syllab{--paper:#f5f8f4;--ink:#183729;--muted:#476052;--accent:#226341;--line:#c9d8ca}
 /* Keep the gradient in reading order when the lab name wraps. */
 .syllab {
-  --brand-green: #246441;
+  --brand-green: #147332;
   --brand-teal: #1d6866;
-  --brand-blue: #176583;
+  --brand-blue: #2355ad;
 }
 .lab-wordmark { --gradient-end: var(--brand-blue); }
-.lab-title-crypto { --gradient-end: var(--brand-teal); }
+.lab-title-crypto { --gradient-start: #20663c; --gradient-end: var(--brand-teal); }
 .lab-title-bridge { color: var(--brand-teal); }
-.lab-title-ml { --gradient-start: var(--brand-teal); --gradient-end: var(--brand-blue); }
+.lab-title-ml { --gradient-start: var(--brand-teal); --gradient-end: #1a618e; }
 .lab-wordmark, .lab-title-crypto, .lab-title-ml { color: var(--gradient-end); }
 @supports (background-clip: text) {
   @media screen and (forced-colors: none) {

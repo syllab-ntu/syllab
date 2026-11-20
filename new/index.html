@@ -52,21 +52,19 @@
             <article class="card">
               <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
               <h4>Primitives design</h4>
-              <p>Our designs include the <a href="https://giftcipher.github.io/gift/">GIFT</a> and <a href="https://sites.google.com/site/ledblockcipher/">LED</a> block ciphers.</p>
-              <p><a href="https://www.iso.org/standard/80505.html">ISO/IEC 18033-7</a> specifies variants of the <a href="https://eprint.iacr.org/2016/660">SKINNY</a> and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-TBC</a> tweakable block ciphers. The <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a> hash family is specified in <a href="https://www.iso.org/standard/67173.html">ISO/IEC 29192-5</a>.</p>
-              <p><a href="https://sites.google.com/view/deoxyscipher">Deoxys-II</a> was the <a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR final portfolio’s first choice for defense in depth</a>.</p>
+              <p>We design cryptographic primitives, including permutations, ciphers, and modes of operation, for a range of practical uses.</p>
+              <p><a href="https://giftcipher.github.io/gift/">GIFT</a>, <a href="https://sites.google.com/site/ledblockcipher/">LED</a>, <a href="https://eprint.iacr.org/2016/660">SKINNY</a> and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-TBC</a> (<a href="https://www.iso.org/standard/80505.html">ISO/IEC 18033-7</a>), <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a> (<a href="https://www.iso.org/standard/67173.html">ISO/IEC 29192-5</a>), and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-II</a> (<a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR first choice for defense in depth</a>).</p>
             </article>
             <article class="card">
               <img src="thomas-peyrin/assets/folio/fixslicing.svg" width="480" height="280" alt="Bits from four words rearranged into bit planes.">
               <h4>Implementations</h4>
               <p>We build and evaluate fast, small, and secure implementations of cryptographic primitives in software and hardware.</p>
-              <p>Fixslicing began with <a href="https://eprint.iacr.org/2020/412">GIFT</a>. Our <a href="https://eprint.iacr.org/2020/1123">bitsliced AES-128 implementation</a> set a speed record on ARM Cortex-M at 80 cycles per byte with precomputed round keys. <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a> uses fixslicing in its portable, constant-time AES backend.</p>
-              <p><a href="https://eprint.iacr.org/2017/600">Bit-Sliding</a> reduces hardware area with bit-serial circuits for AES, PRESENT, and SKINNY. In <a href="https://eprint.iacr.org/2022/1247">Peek into the Black-Box</a>, Trevor Yap and colleagues study what neural networks learn from side-channel measurements of AES implementations.</p>
+              <p><a href="https://eprint.iacr.org/2020/1123">Fixslicing</a> powers <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto’s portable AES</a> and set a bitsliced AES speed record on ARM Cortex-M. Other highlights include <a href="https://eprint.iacr.org/2017/600">Bit-Sliding</a>, <a href="https://eprint.iacr.org/2017/101">LIGHTER</a>, and <a href="https://eprint.iacr.org/2022/1247">Trevor Yap’s work on side-channel leakage</a>.</p>
             </article>
             <article class="card">
               <img src="thomas-peyrin/assets/folio/sha1.svg" width="480" height="280" alt="Two distinct messages converge on the same hash digest.">
               <h4>Cryptanalysis</h4>
-              <p>Our work on SHA-1 includes a <a href="https://eprint.iacr.org/2015/967">freestart collision</a> and the <a href="https://sha-mbles.github.io/">first practical chosen-prefix collision</a>. For block ciphers, we introduced the <a href="https://eprint.iacr.org/2018/161">boomerang connectivity table</a> to study how two differential trails interact through an S-box.</p>
+              <p>We cryptanalyse both long-established and recent primitives. Highlights include <a href="https://sha-mbles.github.io/">SHA-1 collisions</a>, the <a href="https://eprint.iacr.org/2018/161">boomerang connectivity table (BCT)</a>, the <a href="https://eprint.iacr.org/2010/223">internal differential attack on Grøstl</a>, and <a href="https://eprint.iacr.org/2009/531">Super-Sbox cryptanalysis</a>.</p>
             </article>
             <article class="card">
               <img src="assets/folio/analysis.svg" width="480" height="280" alt="Candidate trails through successive layers of a cipher.">
@@ -87,12 +85,18 @@
             </article>
             <article class="card">
               <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
-              <h4>Interpretable and compact AI</h4>
-              <p>We design compact neural architectures around Boolean functions and sparse rules for efficient inference and formal verification.</p>
-              <div class="links">
-                <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
-                <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
-              </div>
+              <h4>Interpretable AI</h4>
+              <p><a href="https://ijcai.org/proceedings/2024/2">TTnet</a> represents neural computations as truth tables. <a href="https://arxiv.org/abs/2309.09638">TT-rules</a> and <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse</a> use truth tables to learn rules that people can inspect.</p>
+            </article>
+            <article class="card">
+              <img src="assets/folio/spatial-selection.svg" width="480" height="280" alt="A spatial filter with three selected weights.">
+              <h4>Compact AI</h4>
+              <p>Our ECCV spotlight paper <a href="https://doi.org/10.1007/978-3-032-37627-5_4">Beyond Filter Pruning</a> shows how selecting the most important weights within each filter can reduce computation.</p>
+            </article>
+            <article class="card">
+              <img class="implicant-mark" src="thomas-peyrin/assets/folio/implicant.png" width="480" height="280" alt="Implicant">
+              <h4>Privacy-preserving AI</h4>
+              <p><a href="https://arxiv.org/abs/2302.01584">TT-TFHE</a> uses fully homomorphic encryption to run neural networks on encrypted inputs. <a href="https://implicant.ai/">Implicant</a> brings privacy-preserving inference into practice.</p>
             </article>
           </section>
         </div>

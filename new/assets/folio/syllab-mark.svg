@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
   <defs>
     <linearGradient id="topic-gradient" gradientUnits="userSpaceOnUse" x1="2" y1="16" x2="30" y2="16">
-      <stop stop-color="#246441"/>
+      <stop stop-color="#147332"/>
       <stop offset=".5" stop-color="#1d6866"/>
-      <stop offset="1" stop-color="#176583"/>
+      <stop offset="1" stop-color="#2355ad"/>
     </linearGradient>
   </defs>
   <g stroke="url(#topic-gradient)" stroke-width="1.55" stroke-linecap="round">
