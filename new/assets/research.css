@@ -22,10 +22,3 @@
   line-height: 1.2;
   text-wrap: balance;
 }
-.research-groups img.implicant-mark {
-  box-sizing: border-box;
-  aspect-ratio: 12 / 7;
-  padding: 9%;
-  object-fit: contain;
-  background: #e1eff1;
-}
