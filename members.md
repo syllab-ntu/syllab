@@ -29,6 +29,7 @@ sidebar:
 - **Eytan Levy**
 - **Yihan Li**
 - **Hadrien Marc**
+- **Tingfeng Wu**
 
 
 # PhD Students
