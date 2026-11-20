@@ -35,3 +35,45 @@ html:has(.publication-page) { scroll-behavior: auto; }
   .year-select { display: block; font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: .35rem; padding: .3rem; max-width: 60%; }
   .publication-list h2 { scroll-margin-top: 3.25rem; }
 }
+
+.venue-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem 1.25rem;
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  font-size: .88rem;
+  font-weight: 650;
+}
+.venue-crypto { --venue-color: #246441; }
+.venue-ml { --venue-color: #176583; }
+.venue-both { --venue-color: #285c65; }
+.venue-other { --venue-color: #505d60; }
+.venue-line, .venue-key li { color: var(--venue-color); }
+.venue-line a { color: inherit; }
+.venue-line::before, :where(.venue-key) li::before {
+  content: "";
+  display: inline-block;
+  width: .58em;
+  height: .58em;
+  margin-inline-end: .45em;
+  vertical-align: .08em;
+  background: currentColor;
+  border-radius: 50%;
+}
+.venue-ml::before { border-radius: 1px; }
+.venue-both::before {
+  border-radius: 1px;
+  transform: rotate(45deg);
+  background: linear-gradient(90deg, #246441 50%, #176583 50%);
+}
+.venue-other::before { background: transparent; box-shadow: inset 0 0 0 1.5px currentColor; }
+.venue-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
