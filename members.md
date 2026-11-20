@@ -17,6 +17,7 @@ sidebar:
 
 # Postdocs
 
+- **Chandranan Dhar**     
 - **[Hirendra Kumar Garai](https://hirengarai.github.io)**
 - **Zhongfeng Niu**   
 - **[Mostafizar Rahman](https://sites.google.com/view/rahmanmustaf/)**    
