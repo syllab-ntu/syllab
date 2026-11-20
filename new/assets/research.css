@@ -22,3 +22,10 @@
   line-height: 1.2;
   text-wrap: balance;
 }
+.research-groups img.encrypted-inference {
+  box-sizing: border-box;
+  aspect-ratio: 12 / 7;
+  padding-inline: 3.5%;
+  object-fit: contain;
+  background-color: #e1eff1;
+}
