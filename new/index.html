@@ -55,20 +55,23 @@
               <p>Our designs include the <a href="https://giftcipher.github.io/gift/">GIFT</a> and <a href="https://sites.google.com/site/ledblockcipher/">LED</a> block ciphers.</p>
               <p><a href="https://www.iso.org/standard/80505.html">ISO/IEC 18033-7</a> specifies variants of the <a href="https://eprint.iacr.org/2016/660">SKINNY</a> and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-TBC</a> tweakable block ciphers. The <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a> hash family is specified in <a href="https://www.iso.org/standard/67173.html">ISO/IEC 29192-5</a>.</p>
               <p><a href="https://sites.google.com/view/deoxyscipher">Deoxys-II</a> was the <a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR final portfolio’s first choice for defense in depth</a>.</p>
-              <div class="links">
-                <a href="https://eprint.iacr.org/2020/412">Fixslicing for GIFT</a>
-                <a href="https://eprint.iacr.org/2020/1123">Fixslicing for AES</a>
-                <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a>
-              </div>
             </article>
             <article class="card">
-              <img src="assets/folio/analysis.svg" width="480" height="280" alt="Several candidate paths through a layered graph.">
-              <h4>Cryptanalysis and automated methods</h4>
-              <p>We use differential methods, constraint solvers and machine learning to analyze symmetric primitives.</p>
-              <div class="links">
-                <a href="https://github.com/Open-CP/OCP">OCP</a>
-                <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
-              </div>
+              <img src="thomas-peyrin/assets/folio/fixslicing.svg" width="480" height="280" alt="Bits from four words rearranged into bit planes.">
+              <h4>Implementations</h4>
+              <p>We build and evaluate fast, small, and secure implementations of cryptographic primitives in software and hardware.</p>
+              <p>Fixslicing began with <a href="https://eprint.iacr.org/2020/412">GIFT</a>. Our <a href="https://eprint.iacr.org/2020/1123">bitsliced AES-128 implementation</a> set a speed record on ARM Cortex-M at 80 cycles per byte with precomputed round keys. <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a> uses fixslicing in its portable, constant-time AES backend.</p>
+              <p><a href="https://eprint.iacr.org/2017/600">Bit-Sliding</a> reduces hardware area with bit-serial circuits for AES, PRESENT, and SKINNY. In <a href="https://eprint.iacr.org/2022/1247">Peek into the Black-Box</a>, Trevor Yap and colleagues study what neural networks learn from side-channel measurements of AES implementations.</p>
+            </article>
+            <article class="card">
+              <img src="thomas-peyrin/assets/folio/sha1.svg" width="480" height="280" alt="Two distinct messages converge on the same hash digest.">
+              <h4>Cryptanalysis</h4>
+              <p>Our work on SHA-1 includes a <a href="https://eprint.iacr.org/2015/967">freestart collision</a> and the <a href="https://sha-mbles.github.io/">first practical chosen-prefix collision</a>. For block ciphers, we introduced the <a href="https://eprint.iacr.org/2018/161">boomerang connectivity table</a> to study how two differential trails interact through an S-box.</p>
+            </article>
+            <article class="card">
+              <img src="assets/folio/analysis.svg" width="480" height="280" alt="Candidate trails through successive layers of a cipher.">
+              <h4>Automated methods and AI-assisted cryptanalysis</h4>
+              <p>We use constraint solvers to search for patterns in symmetric primitives through the <a href="https://github.com/Open-CP/OCP">Open Cryptanalysis Platform</a>. We also study <a href="https://eprint.iacr.org/2021/287">what neural distinguishers learn about reduced-round SPECK</a> and how their predictions relate to classical differential cryptanalysis.</p>
             </article>
           </section>
           <section class="topic-ml" aria-labelledby="research-ai">
@@ -102,11 +105,11 @@
         <ul class="news">
           <li>
             <time datetime="2026-03">Mar 2026</time>
-            <span>FSE Best Paper Award for <em>On the Plaintext Awareness of AEAD Schemes</em>.</span>
+            <span><a href="https://fse.iacr.org/2026/">FSE</a> <strong>Best Paper Award</strong> for <em>On the Plaintext Awareness of AEAD Schemes</em>.</span>
           </li>
           <li>
             <time datetime="2025-03">Mar 2025</time>
-            <span>FSE Test-of-Time Award for <em>Super-Sbox Cryptanalysis</em>.</span>
+            <span><a href="https://fse.iacr.org/2025/testoftime.php">FSE</a> <strong>Test-of-Time Award</strong> for <em>Super-Sbox Cryptanalysis</em>.</span>
           </li>
         </ul>
       </section>
