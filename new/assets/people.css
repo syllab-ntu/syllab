@@ -18,8 +18,9 @@
   display: grid;
   place-items: center;
   margin-inline: auto;
-  width: 7rem;
-  height: 7rem;
+  width: min(100%, 9rem);
+  height: auto;
+  aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
   object-position: center 38%;
@@ -41,5 +42,5 @@
 .past-members { border-top: 1px solid var(--line); padding-top: 1.25rem; }
 @media (max-width: 640px) {
   .member-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem .6rem; }
-  .member-portrait { width: 5.75rem; height: 5.75rem; }
+  .member-portrait { width: min(100%, 7.5rem); }
 }
