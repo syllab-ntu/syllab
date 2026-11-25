@@ -1,12 +1,12 @@
 main:
   - title: "News"
-    url: /
+    url: /old/
   - title: "Members"
-    url: /members/
+    url: /old/members/
   - title: "Publications"
-    url: /publications/
+    url: /old/publications/
   - title: "Available Positions"
-    url: /positions/
+    url: /old/positions/
 
 research:
   - title: "Research highlights"
@@ -28,82 +28,82 @@ research:
    
 docs:    
   - title: News
-    url: /
+    url: /old/
 
   - title: Members
-    url: /members/
+    url: /old/members/
         
   - title: Publications
-    url: /publications/
+    url: /old/publications/
 
   - title: Available Positions
-    url: /positions/
+    url: /old/positions/
     
 docsm:
   - title: News
-    url: /
+    url: /old/
 
   - title: Members
-    url: /members/
+    url: /old/members/
     children:
       - title: "Faculty"
-        url: /members/#faculty
+        url: /old/members/#faculty
       - title: "Postdocs"
-        url: /members/#postdocs
+        url: /old/members/#postdocs
       - title: "Researchers"
-        url: /members/#researchers
+        url: /old/members/#researchers--engineers
       - title: "PhD Students"
-        url: /members/#phd-students
+        url: /old/members/#phd-students
       - title: "Visitors"
-        url: /members/#visitors      
+        url: /old/members/#visitors
       - title: "Alumni"
-        url: /members/#alumni 
+        url: /old/members/#alumni
         
   - title: Publications
-    url: /publications/
+    url: /old/publications/
 
   - title: Available Positions
-    url: /positions/
+    url: /old/positions/
 
 docsp:
   - title: News
-    url: /
+    url: /old/
 
   - title: Members
-    url: /members/
+    url: /old/members/
         
   - title: Publications
-    url: /publications/
+    url: /old/publications/
     children:
       - title: "2025"
-        url: /publications/#2025
+        url: /old/publications/#2025
       - title: "2024"
-        url: /publications/#2024
+        url: /old/publications/#2024
       - title: "2023"
-        url: /publications/#2023
+        url: /old/publications/#2023
       - title: "2022"
-        url: /publications/#2022
+        url: /old/publications/#2022
       - title: "2021"
-        url: /publications/#2021
+        url: /old/publications/#2021
       - title: "2020"
-        url: /publications/#2020
+        url: /old/publications/#2020
       - title: "2019"
-        url: /publications/#2019
+        url: /old/publications/#2019
       - title: "2018"
-        url: /publications/#2018
+        url: /old/publications/#2018
       - title: "2017"
-        url: /publications/#2017
+        url: /old/publications/#2017
       - title: "2016"
-        url: /publications/#2016
+        url: /old/publications/#2016
       - title: "2015"
-        url: /publications/#2015
+        url: /old/publications/#2015
       - title: "2014"
-        url: /publications/#2014
+        url: /old/publications/#2014
       - title: "2013"
-        url: /publications/#2013
+        url: /old/publications/#2013
       - title: "2012"
-        url: /publications/#2012
+        url: /old/publications/#2012
 
   - title: Available Positions
-    url: /positions/
+    url: /old/positions/
 

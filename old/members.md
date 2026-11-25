@@ -1,4 +1,5 @@
 ---
+permalink: /old/members/
 layout: single
 toc: false
 classes: wide

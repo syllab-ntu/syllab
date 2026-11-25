@@ -51,6 +51,7 @@ html:has(.publication-page) { scroll-behavior: auto; }
 .venue-both { --venue-color: #285c65; }
 .venue-other { --venue-color: #505d60; }
 .venue-line, .venue-key li, .publication-list .paper-title,
+.publication-list li > em:first-child, .publication-list li > p > em:first-child,
 .publication-list li::marker { color: var(--venue-color); }
 .venue-line a { color: inherit; }
 .venue-sr {

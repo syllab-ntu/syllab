@@ -1,4 +1,5 @@
 ---
+permalink: /old/2026_MLCV_engineer/
 layout: single
 toc: false
 classes: wide
